@@ -1,1 +1,3 @@
 ncbiID	fullName	rank	parentID
+999999286	Murine_CoV_JHM-WU	norank	11118
+999999287	Duck_CoV_ZZ2004	norank	11118

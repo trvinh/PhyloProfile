@@ -1,11 +1,11 @@
 inst/doc
-inst/PhyloProfile/data/rankList.txt
-inst/PhyloProfile/data/idList.txt
-inst/PhyloProfile/data/taxonomyMatrix.txt
-inst/PhyloProfile/data/taxonNamesReduced.txt
+# inst/PhyloProfile/data/rankList.txt
+# inst/PhyloProfile/data/idList.txt
+# inst/PhyloProfile/data/taxonomyMatrix.txt
+# inst/PhyloProfile/data/taxonNamesReduced.txt
 inst/PhyloProfile/data/taxonNamesFull.txt
 inst/PhyloProfile/data/preProcessedTaxonomy.txt
-inst/PhyloProfile/data/newTaxa.txt
+# inst/PhyloProfile/data/newTaxa.txt
 tests/testthat/Rplots.pdf
 
 rsconnect/

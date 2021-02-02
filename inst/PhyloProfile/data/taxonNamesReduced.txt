@@ -1,0 +1,2081 @@
+ncbiID	fullName	rank	parentID
+100226	Streptomyces coelicolor A3(2)	norank	1902
+1902	Streptomyces coelicolor	species	1477431
+1477431	Streptomyces albidoflavus group	speciesgroup	1883
+1883	Streptomyces	genus	2062
+2062	Streptomycetaceae	family	85011
+85011	Streptomycetales	order	1760
+1760	Actinobacteria	class	201174
+201174	Actinobacteria	phylum	1783272
+1783272	Terrabacteria group	norank	2
+2	Bacteria	superkingdom	131567
+131567	cellular organisms	norank	1
+10090	Mus musculus	species	862507
+862507	Mus	subgenus	10088
+10088	Mus	genus	39107
+39107	Murinae	subfamily	10066
+10066	Muridae	family	337687
+337687	Muroidea	norank	1963758
+1963758	Myomorpha	suborder	9989
+9989	Rodentia	order	314147
+314147	Glires	norank	314146
+314146	Euarchontoglires	superorder	1437010
+1437010	Boreoeutheria	norank	9347
+9347	Eutheria	norank	32525
+32525	Theria	norank	40674
+40674	Mammalia	class	32524
+32524	Amniota	norank	32523
+32523	Tetrapoda	norank	1338369
+1338369	Dipnotetrapodomorpha	norank	8287
+8287	Sarcopterygii	superclass	117571
+117571	Euteleostomi	norank	117570
+117570	Teleostomi	norank	7776
+7776	Gnathostomata	norank	7742
+7742	Vertebrata	norank	89593
+89593	Craniata	subphylum	7711
+7711	Chordata	phylum	33511
+33511	Deuterostomia	norank	33213
+33213	Bilateria	norank	6072
+6072	Eumetazoa	norank	33208
+33208	Metazoa	kingdom	999999001
+999999001	Choanozoa	norank	999999002
+999999002	Filozoa	norank	999999003
+999999003	Pluriformea	norank	999999004
+999999004	Holozoa	norank	33154
+33154	Opisthokonta	norank	2759
+2759	Eukaryota	superkingdom	131567
+10116	Rattus norvegicus	species	10114
+10114	Rattus	genus	39107
+1111708	Synechocystis sp. PCC 6803 substr. Kazusa	norank	1148
+1148	Synechocystis sp. PCC 6803	species	2640012
+2640012	unclassified Synechocystis	norank	1142
+1142	Synechocystis	genus	1890428
+1890428	Merismopediaceae	family	1890424
+1890424	Synechococcales	order	1117
+1117	Cyanobacteria	phylum	1798711
+1798711	Cyanobacteria/Melainabacteria group	norank	1783272
+122586	Neisseria meningitidis MC58	norank	491
+491	Neisseria meningitidis serogroup B	norank	487
+487	Neisseria meningitidis	species	482
+482	Neisseria	genus	481
+481	Neisseriaceae	family	206351
+206351	Neisseriales	order	28216
+28216	Betaproteobacteria	class	1224
+1224	Proteobacteria	phylum	2
+123851	Ladona fulva	species	70376
+70376	Ladona	genus	6964
+6964	Libellulidae	family	70899
+70899	Cavilabiata	superfamily	6962
+6962	Anisoptera	infraorder	2510002
+2510002	Epiprocta	suborder	6961
+6961	Odonata	order	33339
+33339	Palaeoptera	infraclass	7496
+7496	Pterygota	subclass	85512
+85512	Dicondylia	norank	50557
+50557	Insecta	class	6960
+6960	Hexapoda	subphylum	197562
+197562	Pancrustacea	norank	197563
+197563	Mandibulata	norank	6656
+6656	Arthropoda	phylum	88770
+88770	Panarthropoda	norank	1206794
+1206794	Ecdysozoa	norank	33317
+33317	Protostomia	norank	33213
+136037	Zootermopsis nevadensis	species	7502
+7502	Zootermopsis	genus	127821
+127821	Termopsini	tribe	127820
+127820	Termopsinae	subfamily	7501
+7501	Termopsidae	family	1912919
+1912919	Termitoidae	norank	1049657
+1049657	Blattoidea	superfamily	85823
+85823	Blattodea	order	6970
+6970	Dictyoptera	norank	33341
+33341	Polyneoptera	cohort	33340
+33340	Neoptera	infraclass	7496
+13616	Monodelphis domestica	species	13615
+13615	Monodelphis	genus	126287
+126287	Didelphinae	subfamily	9265
+9265	Didelphidae	family	38605
+38605	Didelphimorphia	order	9263
+9263	Metatheria	norank	32525
+164328	Phytophthora ramorum	species	4783
+4783	Phytophthora	genus	4777
+4777	Peronosporaceae	family	4776
+4776	Peronosporales	order	4762
+4762	Oomycota	class	33634
+33634	Stramenopiles	norank	2698737
+2698737	Sar	norank	2759
+1841598	Candidatus Heimdallarchaeota archaeon LC_3	species	1936272
+1936272	Candidatus Heimdallarchaeota	phylum	1935183
+1935183	Asgard group	norank	2157
+2157	Archaea	superkingdom	131567
+184922	Giardia lamblia ATCC 50803	norank	5741
+5741	Giardia intestinalis	species	5740
+5740	Giardia	genus	68459
+68459	Giardiinae	subfamily	5739
+5739	Hexamitidae	family	5738
+5738	Diplomonadida	order	207245
+207245	Fornicata	phylum	2611341
+2611341	Metamonada	norank	2759
+188937	Methanosarcina acetivorans C2A	norank	2214
+2214	Methanosarcina acetivorans	species	2207
+2207	Methanosarcina	genus	2206
+2206	Methanosarcinaceae	family	94695
+94695	Methanosarcinales	order	224756
+224756	Methanomicrobia	class	2290931
+2290931	Stenosarchaea group	norank	28890
+28890	Euryarchaeota	phylum	2157
+189518	Leptospira interrogans serovar Lai str. 56601	norank	57678
+57678	Leptospira interrogans serovar Lai	norank	173
+173	Leptospira interrogans	species	171
+171	Leptospira	genus	170
+170	Leptospiraceae	family	1643688
+1643688	Leptospirales	order	203692
+203692	Spirochaetia	class	203691
+203691	Spirochaetes	phylum	2
+190304	Fusobacterium nucleatum subsp. nucleatum ATCC 25586	norank	76856
+76856	Fusobacterium nucleatum subsp. nucleatum	subspecies	851
+851	Fusobacterium nucleatum	species	848
+848	Fusobacterium	genus	203492
+203492	Fusobacteriaceae	family	203491
+203491	Fusobacteriales	order	203490
+203490	Fusobacteriia	class	32066
+32066	Fusobacteria	phylum	2
+208964	Pseudomonas aeruginosa PAO1	norank	287
+287	Pseudomonas aeruginosa	species	136841
+136841	Pseudomonas aeruginosa group	speciesgroup	286
+286	Pseudomonas	genus	135621
+135621	Pseudomonadaceae	family	72274
+72274	Pseudomonadales	order	1236
+1236	Gammaproteobacteria	class	1224
+214684	Cryptococcus neoformans var. neoformans JEC21	norank	40410
+40410	Cryptococcus neoformans var. neoformans	varietas	5207
+5207	Cryptococcus neoformans	species	1897064
+1897064	Cryptococcus neoformans species complex	speciesgroup	5206
+5206	Cryptococcus	genus	1884633
+1884633	Cryptococcaceae	family	5234
+5234	Tremellales	order	155616
+155616	Tremellomycetes	class	5302
+5302	Agaricomycotina	subphylum	5204
+5204	Basidiomycota	phylum	451864
+451864	Dikarya	subkingdom	4751
+4751	Fungi	kingdom	999999005
+999999005	Holomycota	norank	33154
+224129	Agrilus planipennis	species	195164
+195164	Agrilus	genus	261156
+261156	Agrilinae	subfamily	50527
+50527	Buprestidae	family	71192
+71192	Buprestoidea	superfamily	41087
+41087	Elateriformia	infraorder	41084
+41084	Polyphaga	suborder	7041
+7041	Coleoptera	order	33392
+33392	Holometabola	cohort	33340
+224308	Bacillus subtilis subsp. subtilis str. 168	norank	135461
+135461	Bacillus subtilis subsp. subtilis	subspecies	1423
+1423	Bacillus subtilis	species	653685
+653685	Bacillus subtilis group	speciesgroup	1386
+1386	Bacillus	genus	186817
+186817	Bacillaceae	family	1385
+1385	Bacillales	order	91061
+91061	Bacilli	class	1239
+1239	Firmicutes	phylum	1783272
+224324	Aquifex aeolicus VF5	norank	63363
+63363	Aquifex aeolicus	species	2713
+2713	Aquifex	genus	64898
+64898	Aquificaceae	family	32069
+32069	Aquificales	order	187857
+187857	Aquificae	class	200783
+200783	Aquificae	phylum	2
+224911	Bradyrhizobium diazoefficiens USDA 110	norank	1355477
+1355477	Bradyrhizobium diazoefficiens	species	374
+374	Bradyrhizobium	genus	41294
+41294	Bradyrhizobiaceae	family	356
+356	Rhizobiales	order	28211
+28211	Alphaproteobacteria	class	1224
+226186	Bacteroides thetaiotaomicron VPI-5482	norank	818
+818	Bacteroides thetaiotaomicron	species	816
+816	Bacteroides	genus	815
+815	Bacteroidaceae	family	171549
+171549	Bacteroidales	order	200643
+200643	Bacteroidia	class	976
+976	Bacteroidetes	phylum	68336
+68336	Bacteroidetes/Chlorobi group	norank	1783270
+1783270	FCB group	norank	2
+237561	Candida albicans SC5314	norank	5476
+5476	Candida albicans	species	1535326
+1535326	Candida	genus	1535325
+1535325	Candida/Lodderomyces clade	norank	766764
+766764	Debaryomycetaceae	family	4892
+4892	Saccharomycetales	order	4891
+4891	Saccharomycetes	class	147537
+147537	Saccharomycotina	subphylum	716545
+716545	saccharomyceta	norank	4890
+4890	Ascomycota	phylum	451864
+237631	Ustilago maydis 521	norank	5270
+5270	Ustilago maydis	species	5269
+5269	Ustilago	genus	5268
+5268	Ustilaginaceae	family	5267
+5267	Ustilaginales	order	5257
+5257	Ustilaginomycetes	class	452284
+452284	Ustilaginomycotina	subphylum	5204
+243090	Rhodopirellula baltica SH 1	norank	265606
+265606	Rhodopirellula baltica	species	265488
+265488	Rhodopirellula	genus	2691357
+2691357	Pirellulaceae	family	2691354
+2691354	Pirellulales	order	203683
+203683	Planctomycetia	class	203682
+203682	Planctomycetes	phylum	1783257
+1783257	PVC group	norank	2
+243230	Deinococcus radiodurans R1	norank	1299
+1299	Deinococcus radiodurans	species	1298
+1298	Deinococcus	genus	183710
+183710	Deinococcaceae	family	118964
+118964	Deinococcales	order	188787
+188787	Deinococci	class	1297
+1297	Deinococcus-Thermus	phylum	1783272
+243231	Geobacter sulfurreducens PCA	norank	35554
+35554	Geobacter sulfurreducens	species	28231
+28231	Geobacter	genus	213422
+213422	Geobacteraceae	family	69541
+69541	Desulfuromonadales	order	28221
+28221	Deltaproteobacteria	class	68525
+68525	delta/epsilon subdivisions	subphylum	1224
+243232	Methanocaldococcus jannaschii DSM 2661	norank	2190
+2190	Methanocaldococcus jannaschii	species	196118
+196118	Methanocaldococcus	genus	196117
+196117	Methanocaldococcaceae	family	2182
+2182	Methanococcales	order	183939
+183939	Methanococci	class	2283794
+2283794	Methanomada group	norank	28890
+243273	Mycoplasma genitalium G37	norank	2097
+2097	Mycoplasma genitalium	species	2093
+2093	Mycoplasma	genus	2092
+2092	Mycoplasmataceae	family	2085
+2085	Mycoplasmatales	order	31969
+31969	Mollicutes	class	544448
+544448	Tenericutes	phylum	1783272
+243274	Thermotoga maritima MSB8	norank	2336
+2336	Thermotoga maritima	species	2335
+2335	Thermotoga	genus	188709
+188709	Thermotogaceae	family	2419
+2419	Thermotogales	order	188708
+188708	Thermotogae	class	200918
+200918	Thermotogae	phylum	2
+251221	Gloeobacter violaceus PCC 7421	norank	33072
+33072	Gloeobacter violaceus	species	33071
+33071	Gloeobacter	genus	1890422
+1890422	Gloeobacteraceae	family	307595
+307595	Gloeobacterales	order	307596
+307596	Gloeobacteria	class	1117
+272561	Chlamydia trachomatis D/UW-3/CX	norank	813
+813	Chlamydia trachomatis	species	810
+810	Chlamydia	genus	1113537
+1113537	Chlamydia/Chlamydophila group	norank	809
+809	Chlamydiaceae	family	51291
+51291	Chlamydiales	order	204429
+204429	Chlamydiia	class	204428
+204428	Chlamydiae	phylum	1783257
+27288	Naumovozyma castellii	species	278028
+278028	Naumovozyma	genus	4893
+4893	Saccharomycetaceae	family	4892
+273057	Saccharolobus solfataricus P2	norank	2287
+2287	Saccharolobus solfataricus	species	2100760
+2100760	Saccharolobus	genus	118883
+118883	Sulfolobaceae	family	2281
+2281	Sulfolobales	order	183924
+183924	Thermoprotei	class	28889
+28889	Crenarchaeota	phylum	1783275
+1783275	TACK group	norank	2157
+284591	Yarrowia lipolytica CLIB122	norank	4952
+4952	Yarrowia lipolytica	species	4951
+4951	Yarrowia	genus	34353
+34353	Dipodascaceae	family	4892
+284812	Schizosaccharomyces pombe 972h-	norank	4896
+4896	Schizosaccharomyces pombe	species	4895
+4895	Schizosaccharomyces	genus	4894
+4894	Schizosaccharomycetaceae	family	34346
+34346	Schizosaccharomycetales	order	147554
+147554	Schizosaccharomycetes	class	451866
+451866	Taphrinomycotina	subphylum	4890
+286706	Halyomorpha halys	species	286705
+286705	Halyomorpha	genus	286710
+286710	Pentatominae	subfamily	160513
+160513	Pentatomidae	family	33358
+33358	Pentatomoidea	superfamily	33357
+33357	Pentatomomorpha	infraorder	33351
+33351	Panheteroptera	norank	33349
+33349	Neoheteroptera	norank	33347
+33347	Euheteroptera	norank	33345
+33345	Heteroptera	suborder	33343
+33343	Prosorrhyncha	norank	7524
+7524	Hemiptera	order	33342
+33342	Paraneoptera	cohort	33340
+289376	Thermodesulfovibrio yellowstonii DSM 11347	norank	28262
+28262	Thermodesulfovibrio yellowstonii	species	28261
+28261	Thermodesulfovibrio	genus	189779
+189779	Nitrospiraceae	family	189778
+189778	Nitrospirales	order	203693
+203693	Nitrospira	class	40117
+40117	Nitrospirae	phylum	2
+3055	Chlamydomonas reinhardtii	species	3052
+3052	Chlamydomonas	genus	3051
+3051	Chlamydomonadaceae	family	3042
+3042	Chlamydomonadales	order	3166
+3166	Chlorophyceae	class	2692248
+2692248	core chlorophytes	norank	3041
+3041	Chlorophyta	phylum	33090
+33090	Viridiplantae	kingdom	2759
+319348	Polypedilum vanderplanki	species	2056899
+2056899	Polypedilum	subgenus	54968
+54968	Polypedilum	genus	72530
+72530	Chironomini	tribe	54970
+54970	Chironominae	subfamily	7149
+7149	Chironomidae	family	41828
+41828	Chironomoidea	superfamily	43786
+43786	Culicomorpha	infraorder	7148
+7148	Nematocera	suborder	7147
+7147	Diptera	order	33392
+321614	Parastagonospora nodorum SN15	norank	13684
+13684	Parastagonospora nodorum	species	1351751
+1351751	Parastagonospora	genus	5020
+5020	Phaeosphaeriaceae	family	715340
+715340	Pleosporineae	suborder	92860
+92860	Pleosporales	order	451868
+451868	Pleosporomycetidae	subclass	147541
+147541	Dothideomycetes	class	715962
+715962	dothideomyceta	norank	716546
+716546	leotiomyceta	norank	147538
+147538	Pezizomycotina	subphylum	716545
+3218	Physcomitrella patens	species	3217
+3217	Physcomitrella	genus	3216
+3216	Funariaceae	family	3215
+3215	Funariales	order	114656
+114656	Funariidae	subclass	3214
+3214	Bryopsida	class	404260
+404260	Bryophytina	norank	3208
+3208	Bryophyta	norank	3193
+3193	Embryophyta	norank	131221
+131221	Streptophytina	subphylum	35493
+35493	Streptophyta	phylum	33090
+324602	Chloroflexus aurantiacus J-10-fl	norank	1108
+1108	Chloroflexus aurantiacus	species	1107
+1107	Chloroflexus	genus	1106
+1106	Chloroflexaceae	family	1508594
+1508594	Chloroflexineae	suborder	32064
+32064	Chloroflexales	order	32061
+32061	Chloroflexia	class	200795
+200795	Chloroflexi	phylum	1783272
+330879	Aspergillus fumigatus Af293	norank	746128
+746128	Aspergillus fumigatus	species	2720872
+2720872	Fumigati	subgenus	5052
+5052	Aspergillus	genus	1131492
+1131492	Aspergillaceae	family	5042
+5042	Eurotiales	order	451871
+451871	Eurotiomycetidae	subclass	147545
+147545	Eurotiomycetes	class	716546
+34740	Heliconius melpomene	species	33416
+33416	Heliconius	genus	127322
+127322	Heliconiini	tribe	40037
+40037	Heliconiinae	subfamily	33415
+33415	Nymphalidae	family	37572
+37572	Papilionoidea	superfamily	104431
+104431	Obtectomera	norank	37567
+37567	Ditrysia	norank	41197
+41197	Heteroneura	parvorder	41196
+41196	Neolepidoptera	infraorder	41191
+41191	Glossata	suborder	7088
+7088	Lepidoptera	order	85604
+85604	Amphiesmenoptera	superorder	33392
+35128	Thalassiosira pseudonana	species	35127
+35127	Thalassiosira	genus	29202
+29202	Thalassiosiraceae	family	33847
+33847	Thalassiosirales	order	33846
+33846	Thalassiosirophycidae	subclass	33836
+33836	Coscinodiscophyceae	class	2836
+2836	Bacillariophyta	phylum	2696291
+2696291	Ochrophyta	norank	33634
+35525	Daphnia magna	species	6668
+6668	Daphnia	genus	77658
+77658	Daphniidae	family	116561
+116561	Anomopoda	infraorder	6665
+6665	Cladocera	suborder	84337
+84337	Diplostraca	order	116557
+116557	Phyllopoda	subclass	6658
+6658	Branchiopoda	class	6657
+6657	Crustacea	subphylum	197562
+36033	Vanderwaltozyma polyspora	species	374469
+374469	Vanderwaltozyma	genus	4893
+36329	Plasmodium falciparum 3D7	norank	5833
+5833	Plasmodium falciparum	species	418107
+418107	Plasmodium (Laverania)	subgenus	5820
+5820	Plasmodium	genus	1639119
+1639119	Plasmodiidae	family	5819
+5819	Haemosporida	order	422676
+422676	Aconoidasida	class	5794
+5794	Apicomplexa	phylum	33630
+33630	Alveolata	norank	2698737
+367110	Neurospora crassa OR74A	norank	5141
+5141	Neurospora crassa	species	5140
+5140	Neurospora	genus	5148
+5148	Sordariaceae	family	5139
+5139	Sordariales	order	222544
+222544	Sordariomycetidae	subclass	147550
+147550	Sordariomycetes	class	715989
+715989	sordariomyceta	norank	716546
+3702	Arabidopsis thaliana	species	3701
+3701	Arabidopsis	genus	980083
+980083	Camelineae	tribe	3700
+3700	Brassicaceae	family	3699
+3699	Brassicales	order	91836
+91836	malvids	norank	71275
+71275	rosids	norank	1437201
+1437201	Pentapetalae	norank	91827
+91827	Gunneridae	norank	71240
+71240	eudicotyledons	norank	1437183
+1437183	Mesangiospermae	norank	3398
+3398	Magnoliopsida	class	58024
+58024	Spermatophyta	norank	78536
+78536	Euphyllophyta	norank	58023
+58023	Tracheophyta	norank	3193
+374847	Candidatus Korarchaeum cryptofilum OPF8	norank	498846
+498846	Candidatus Korarchaeum cryptofilum	species	498845
+498845	Candidatus Korarchaeum	genus	51967
+51967	Candidatus Korarchaeota	phylum	1783275
+39947	Oryza sativa Japonica Group	norank	4530
+4530	Oryza sativa	species	4527
+4527	Oryza	genus	1648021
+1648021	Oryzinae	subtribe	147380
+147380	Oryzeae	tribe	147367
+147367	Oryzoideae	subfamily	359160
+359160	BOP clade	norank	4479
+4479	Poaceae	family	38820
+38820	Poales	order	4734
+4734	commelinids	norank	1437197
+1437197	Petrosaviidae	subclass	4447
+4447	Liliopsida	norank	1437183
+407821	Stegodyphus mimosarum	species	175340
+175340	Stegodyphus	genus	175333
+175333	Eresidae	family	175332
+175332	Eresoidea	superfamily	74971
+74971	Entelegynae	norank	6905
+6905	Araneomorphae	suborder	6893
+6893	Araneae	order	6854
+6854	Arachnida	class	6843
+6843	Chelicerata	subphylum	6656
+418459	Puccinia graminis f. sp. tritici CRL 75-36-700-3	norank	56615
+56615	Puccinia graminis f. sp. tritici	norank	5297
+5297	Puccinia graminis	species	5296
+5296	Puccinia	genus	5262
+5262	Pucciniaceae	family	5258
+5258	Pucciniales	order	162484
+162484	Pucciniomycetes	class	29000
+29000	Pucciniomycotina	subphylum	5204
+436308	Nitrosopumilus maritimus SCM1	norank	338192
+338192	Nitrosopumilus maritimus	species	338191
+338191	Nitrosopumilus	genus	338190
+338190	Nitrosopumilaceae	family	31932
+31932	Nitrosopumilales	order	651137
+651137	Thaumarchaeota	phylum	1783275
+44689	Dictyostelium discoideum	species	5782
+5782	Dictyostelium	genus	2058185
+2058185	Dictyosteliaceae	family	2058949
+2058949	Dictyosteliales	order	33083
+33083	Dictyostelia	norank	142796
+142796	Eumycetozoa	class	2605435
+2605435	Evosea	phylum	554915
+554915	Amoebozoa	norank	2759
+45351	Nematostella vectensis	species	45350
+45350	Nematostella	genus	45349
+45349	Edwardsiidae	family	6103
+6103	Actiniaria	order	6102
+6102	Hexacorallia	subclass	6101
+6101	Anthozoa	class	6073
+6073	Cnidaria	phylum	6072
+4577	Zea mays	species	4575
+4575	Zea	genus	1648029
+1648029	Tripsacinae	subtribe	147429
+147429	Andropogoneae	tribe	1648033
+1648033	Andropogonodae	norank	147369
+147369	Panicoideae	subfamily	147370
+147370	PACMAD clade	norank	4479
+4914	Lachancea waltii	species	300275
+300275	Lachancea	genus	4893
+4932	Saccharomyces cerevisiae	species	4930
+4930	Saccharomyces	genus	4893
+4956	Zygosaccharomyces rouxii	species	4953
+4953	Zygosaccharomyces	genus	4893
+515635	Dictyoglomus turgidum DSM 6724	norank	513050
+513050	Dictyoglomus turgidum	species	13
+13	Dictyoglomus	genus	203488
+203488	Dictyoglomaceae	family	203487
+203487	Dictyoglomales	order	203486
+203486	Dictyoglomia	class	68297
+68297	Dictyoglomi	phylum	2
+5478	[Candida] glabrata	species	600669
+600669	Nakaseomyces/Candida clade	norank	374468
+374468	Nakaseomyces	genus	4893
+559292	Saccharomyces cerevisiae S288C	norank	4932
+5664	Leishmania major	species	38581
+38581	Leishmania major species complex	speciesgroup	38568
+38568	Leishmania	subgenus	5658
+5658	Leishmania	genus	1286322
+1286322	Leishmaniinae	subfamily	5654
+5654	Trypanosomatidae	family	2704949
+2704949	Trypanosomatida	order	2704647
+2704647	Metakinetoplastina	subclass	5653
+5653	Kinetoplastea	class	33682
+33682	Euglenozoa	phylum	2611352
+2611352	Discoba	norank	2759
+5722	Trichomonas vaginalis	species	5721
+5721	Trichomonas	genus	181550
+181550	Trichomonadidae	family	37104
+37104	Trichomonadida	order	5719
+5719	Parabasalia	phylum	2611341
+5888	Paramecium tetraurelia	species	5884
+5884	Paramecium	genus	340080
+340080	Parameciidae	family	33825
+33825	Peniculida	order	6020
+6020	Oligohymenophorea	class	431838
+431838	Intramacronucleata	subphylum	5878
+5878	Ciliophora	phylum	33630
+610380	Harpegnathos saltator	species	604375
+604375	Harpegnathos	genus	141711
+141711	Ponerini	tribe	43085
+43085	Ponerinae	subfamily	36668
+36668	Formicidae	family	2153479
+2153479	Formicoidea	superfamily	7434
+7434	Aculeata	infraorder	7400
+7400	Apocrita	suborder	7399
+7399	Hymenoptera	order	33392
+6239	Caenorhabditis elegans	species	6237
+6237	Caenorhabditis	genus	55885
+55885	Peloderinae	subfamily	6243
+6243	Rhabditidae	family	55879
+55879	Rhabditoidea	superfamily	2301119
+2301119	Rhabditomorpha	infraorder	2301116
+2301116	Rhabditina	suborder	6236
+6236	Rhabditida	order	119089
+119089	Chromadorea	class	6231
+6231	Nematoda	phylum	1206794
+64091	Halobacterium salinarum NRC-1	norank	2242
+2242	Halobacterium salinarum	species	2239
+2239	Halobacterium	genus	2236
+2236	Halobacteriaceae	family	2235
+2235	Halobacteriales	order	183963
+183963	Halobacteria	class	2290931
+6412	Helobdella robusta	species	6411
+6411	Helobdella	genus	6407
+6407	Glossiphoniidae	family	2218738
+2218738	Glossiphoniiformes	suborder	2218736
+2218736	Hirudinida	order	55824
+55824	Hirudinea	subclass	42113
+42113	Clitellata	class	6340
+6340	Annelida	phylum	1206795
+1206795	Lophotrochozoa	norank	2697495
+2697495	Spiralia	norank	33317
+665079	Sclerotinia sclerotiorum 1980 UF-70	norank	5180
+5180	Sclerotinia sclerotiorum	species	5179
+5179	Sclerotinia	genus	28983
+28983	Sclerotiniaceae	family	5178
+5178	Helotiales	order	147548
+147548	Leotiomycetes	class	715989
+684364	Batrachochytrium dendrobatidis JAM81	norank	109871
+109871	Batrachochytrium dendrobatidis	species	100474
+100474	Batrachochytrium	genus	1142503
+1142503	Rhizophydiales incertae sedis	norank	451442
+451442	Rhizophydiales	order	451435
+451435	Chytridiomycetes	class	2683659
+2683659	Chytridiomycota incertae sedis	norank	4761
+4761	Chytridiomycota	phylum	112252
+112252	Fungi incertae sedis	norank	4751
+69014	Thermococcus kodakarensis KOD1	norank	311400
+311400	Thermococcus kodakarensis	species	2263
+2263	Thermococcus	genus	2259
+2259	Thermococcaceae	family	2258
+2258	Thermococcales	order	183968
+183968	Thermococci	class	28890
+6945	Ixodes scapularis	species	6944
+6944	Ixodes	genus	426442
+426442	Ixodinae	subfamily	6939
+6939	Ixodidae	family	297308
+297308	Ixodoidea	superfamily	6935
+6935	Ixodida	order	6934
+6934	Parasitiformes	superorder	6933
+6933	Acari	subclass	6854
+7070	Tribolium castaneum	species	7069
+7069	Tribolium	genus	1304792
+1304792	Tenebrionidae incertae sedis	norank	7065
+7065	Tenebrionidae	family	71527
+71527	Tenebrionoidea	superfamily	41088
+41088	Cucujiformia	infraorder	41084
+7165	Anopheles gambiae	species	44542
+44542	gambiae species complex	norank	44537
+44537	Pyretophorus	norank	44534
+44534	Cellia	subgenus	7164
+7164	Anopheles	genus	43816
+43816	Anophelinae	subfamily	7157
+7157	Culicidae	family	41827
+41827	Culicoidea	superfamily	43786
+7227	Drosophila melanogaster	species	32351
+32351	melanogaster subgroup	speciessubgroup	32346
+32346	melanogaster group	speciesgroup	32341
+32341	Sophophora	subgenus	7215
+7215	Drosophila	genus	46877
+46877	Drosophilini	tribe	43845
+43845	Drosophilinae	subfamily	7214
+7214	Drosophilidae	family	43746
+43746	Ephydroidea	superfamily	43741
+43741	Acalyptratae	norank	43738
+43738	Schizophora	norank	480117
+480117	Cyclorrhapha	norank	480118
+480118	Eremoneura	norank	43733
+43733	Muscomorpha	infraorder	7203
+7203	Brachycera	suborder	7147
+7260	Drosophila willistoni	species	32367
+32367	willistoni subgroup	speciessubgroup	32365
+32365	willistoni group	speciesgroup	32341
+7719	Ciona intestinalis	species	7718
+7718	Ciona	genus	7717
+7717	Cionidae	family	7716
+7716	Phlebobranchia	suborder	183770
+183770	Enterogona	order	7713
+7713	Ascidiacea	class	7712
+7712	Tunicata	subphylum	7711
+7739	Branchiostoma floridae	species	7737
+7737	Branchiostoma	genus	7736
+7736	Branchiostomidae	family	2682553
+2682553	Amphioxiformes	order	2682552
+2682552	Leptocardii	class	7735
+7735	Cephalochordata	subphylum	7711
+7918	Lepisosteus oculatus	species	7916
+7916	Lepisosteus	genus	7915
+7915	Lepisosteidae	family	7914
+7914	Semionotiformes	order	1489100
+1489100	Holostei	infraclass	41665
+41665	Neopterygii	subclass	186623
+186623	Actinopteri	class	7898
+7898	Actinopterygii	superclass	117571
+7955	Danio rerio	species	7954
+7954	Danio	genus	7953
+7953	Cyprinidae	family	30727
+30727	Cyprinoidei	suborder	7952
+7952	Cypriniformes	order	186627
+186627	Cypriniphysae	superorder	186626
+186626	Otophysi	norank	32519
+32519	Ostariophysi	subcohort	186634
+186634	Otomorpha	cohort	186625
+186625	Clupeocephala	norank	1489341
+1489341	Osteoglossocephalai	norank	32443
+32443	Teleostei	infraclass	41665
+8090	Oryzias latipes	species	8089
+8089	Oryzias	genus	8088
+8088	Oryziinae	subfamily	47757
+47757	Adrianichthyidae	family	28781
+28781	Adrianichthyoidei	suborder	76071
+76071	Beloniformes	order	1489913
+1489913	Atherinomorphae	superorder	1489908
+1489908	Ovalentaria	norank	1489872
+1489872	Percomorphaceae	norank	123369
+123369	Euacanthomorphacea	norank	123368
+123368	Acanthomorphata	norank	123367
+123367	Ctenosquamata	norank	123366
+123366	Eurypterygia	norank	123365
+123365	Neoteleostei	norank	1489388
+1489388	Euteleosteomorpha	cohort	186625
+81824	Monosiga brevicollis	species	81525
+81525	Monosiga	genus	81529
+81529	Salpingoecidae	family	1924738
+1924738	Craspedida	order	28009
+28009	Choanoflagellata	class	999999001
+83332	Mycobacterium tuberculosis H37Rv	norank	1773
+1773	Mycobacterium tuberculosis	species	77643
+77643	Mycobacterium tuberculosis complex	speciesgroup	1763
+1763	Mycobacterium	genus	1762
+1762	Mycobacteriaceae	family	85007
+85007	Corynebacteriales	order	1760
+83333	Escherichia coli K-12	norank	562
+562	Escherichia coli	species	561
+561	Escherichia	genus	543
+543	Enterobacteriaceae	family	91347
+91347	Enterobacterales	order	1236
+8364	Xenopus tropicalis	species	8363
+8363	Silurana	subgenus	8353
+8353	Xenopus	genus	8360
+8360	Xenopodinae	subfamily	8352
+8352	Pipidae	family	30319
+30319	Pipoidea	superfamily	8342
+8342	Anura	order	41666
+41666	Batrachia	superorder	8292
+8292	Amphibia	class	32523
+85962	Helicobacter pylori 26695	norank	210
+210	Helicobacter pylori	species	209
+209	Helicobacter	genus	72293
+72293	Helicobacteraceae	family	213849
+213849	Campylobacterales	order	29547
+29547	Epsilonproteobacteria	class	68525
+9031	Gallus gallus	species	9030
+9030	Gallus	genus	9072
+9072	Phasianinae	subfamily	9005
+9005	Phasianidae	family	8976
+8976	Galliformes	order	1549675
+1549675	Galloanserae	superorder	8825
+8825	Neognathae	infraclass	8782
+8782	Aves	class	436492
+436492	Coelurosauria	norank	436491
+436491	Theropoda	norank	436489
+436489	Saurischia	norank	436486
+436486	Dinosauria	norank	8492
+8492	Archosauria	norank	1329799
+1329799	Archelosauria	norank	32561
+32561	Sauria	norank	8457
+8457	Sauropsida	norank	32524
+9595	Gorilla gorilla gorilla	subspecies	9593
+9593	Gorilla gorilla	species	9592
+9592	Gorilla	genus	207598
+207598	Homininae	subfamily	9604
+9604	Hominidae	family	314295
+314295	Hominoidea	superfamily	9526
+9526	Catarrhini	parvorder	314293
+314293	Simiiformes	infraorder	376913
+376913	Haplorrhini	suborder	9443
+9443	Primates	order	314146
+9598	Pan troglodytes	species	9596
+9596	Pan	genus	207598
+9606	Homo sapiens	species	9605
+9605	Homo	genus	207598
+9615	Canis lupus familiaris	subspecies	9612
+9612	Canis lupus	species	9611
+9611	Canis	genus	9608
+9608	Canidae	family	379584
+379584	Caniformia	suborder	33554
+33554	Carnivora	order	314145
+314145	Laurasiatheria	superorder	1437010
+9913	Bos taurus	species	9903
+9903	Bos	genus	27592
+27592	Bovinae	subfamily	9895
+9895	Bovidae	family	35500
+35500	Pecora	infraorder	9845
+9845	Ruminantia	suborder	91561
+91561	Artiodactyla	order	314145
+106648	Acinetobacter bereziniae	species	469
+469	Acinetobacter	genus	468
+468	Moraxellaceae	family	72274
+106649	Acinetobacter guillouiae	species	469
+106654	Acinetobacter nosocomialis	species	909768
+909768	Acinetobacter calcoaceticus/baumannii complex	speciesgroup	469
+1086014	Acinetobacter pittii D499	strain	48296
+48296	Acinetobacter pittii	species	909768
+108980	Acinetobacter ursingii	species	469
+108981	Acinetobacter schindleri	species	469
+1094469	Acinetobacter baumannii ABNIH5	strain	470
+470	Acinetobacter baumannii	species	909768
+1094470	Acinetobacter baumannii ABNIH6	strain	470
+1094471	Acinetobacter baumannii ABNIH7	strain	470
+1094475	Acinetobacter baumannii ABNIH11	strain	470
+1094477	Acinetobacter baumannii ABNIH13	strain	470
+1094478	Acinetobacter baumannii ABNIH14	strain	470
+1094479	Acinetobacter baumannii ABNIH15	strain	470
+1094480	Acinetobacter baumannii ABNIH16	strain	470
+1094481	Acinetobacter baumannii ABNIH17	strain	470
+1094482	Acinetobacter baumannii ABNIH18	strain	470
+1094483	Acinetobacter baumannii ABNIH19	strain	470
+1094484	Acinetobacter baumannii ABNIH20	strain	470
+1094486	Acinetobacter baumannii ABNIH22	strain	470
+1094487	Acinetobacter baumannii ABNIH23	strain	470
+1094488	Acinetobacter baumannii ABNIH24	strain	470
+1096779	Acinetobacter puyangensis	species	469
+1096995	Acinetobacter baumannii BJAB07104	strain	470
+1096996	Acinetobacter baumannii BJAB0715	strain	470
+1096997	Acinetobacter baumannii BJAB0868	strain	470
+1100841	Acinetobacter baumannii TYTH-1	strain	470
+1100842	Acinetobacter baumannii TYTH-2	strain	470
+1100843	Acinetobacter baumannii TYTH-3	strain	470
+1100844	Acinetobacter baumannii TYTH-4	strain	470
+1100845	Acinetobacter baumannii TYTH-5	strain	470
+1100846	Acinetobacter baumannii TYTH-6	strain	470
+1100847	Acinetobacter baumannii TYTH-7	strain	470
+1116234	Acinetobacter baumannii AB5075	strain	470
+1116235	Acinetobacter baumannii AB5256	strain	470
+1116236	Acinetobacter baumannii AB5711	strain	470
+1120924	Acinetobacter baylyi DSM 14961 = CIP 107474	strain	202950
+202950	Acinetobacter baylyi	species	469
+1120925	Acinetobacter bouvetii DSM 14964 = CIP 107468	strain	202951
+202951	Acinetobacter bouvetii	species	469
+1120926	Acinetobacter gerneri DSM 14967 = CIP 107464	strain	202952
+202952	Acinetobacter gerneri	species	469
+1120927	Acinetobacter tandoii DSM 14970 = CIP 107469	strain	202954
+202954	Acinetobacter tandoii	species	469
+1120928	Acinetobacter tjernbergiae DSM 14971 = CIP 107465	strain	202955
+202955	Acinetobacter tjernbergiae	species	469
+1120929	Acinetobacter towneri DSM 14962 = CIP 107472	strain	202956
+202956	Acinetobacter towneri	species	469
+1149135	Acinetobacter baumannii 107m	strain	470
+1168590	Acinetobacter baumannii Ab33333	strain	470
+1168591	Acinetobacter baumannii Ab44444	strain	470
+1183155	Acinetobacter nosocomialis Ab22222	strain	106654
+1191460	Acinetobacter venetianus RAG-1 = CIP 110063	strain	52133
+52133	Acinetobacter venetianus	species	469
+1197884	Acinetobacter venetianus VE-C3	strain	52133
+1200350	Acinetobacter baumannii ABIsac_ColiS	isolate	470
+1200351	Acinetobacter baumannii ABIsac_ColiR	isolate	470
+1210907	Acinetobacter baumannii BZICU-2	strain	470
+1216295	Acinetobacter baumannii 53264	strain	470
+1217627	Acinetobacter baumannii NIPH 67	strain	470
+1217628	Acinetobacter baumannii NIPH 70	strain	470
+1217629	Acinetobacter baumannii NIPH 80	strain	470
+1217630	Acinetobacter baumannii NIPH 201	strain	470
+1217631	Acinetobacter baumannii NIPH 290	strain	470
+1217632	Acinetobacter baumannii NIPH 329	strain	470
+1217633	Acinetobacter baumannii NIPH 335	strain	470
+1217635	Acinetobacter baumannii NIPH 527	strain	470
+1217636	Acinetobacter baumannii NIPH 528	strain	470
+1217637	Acinetobacter baumannii NIPH 601	strain	470
+1217638	Acinetobacter baumannii ANC 4097	strain	470
+1217639	Acinetobacter baumannii NIPH 146	strain	470
+1217640	Acinetobacter baumannii NIPH 190	strain	470
+1217641	Acinetobacter baumannii NIPH 615	strain	470
+1217642	Acinetobacter baumannii NIPH 1362	strain	470
+1217643	Acinetobacter baumannii NIPH 1669	strain	470
+1217644	Acinetobacter baumannii NIPH 1734	strain	470
+1217645	Acinetobacter baumannii NIPH 2061	strain	470
+1217646	Acinetobacter baumannii NIPH 24	strain	470
+1217647	Acinetobacter baumannii NIPH 60	strain	470
+1217648	Acinetobacter beijerinckii CIP 110307	strain	262668
+262668	Acinetobacter beijerinckii	species	469
+1217649	Acinetobacter beijerinckii ANC 3835	strain	262668
+1217651	Acinetobacter bereziniae NIPH 3	strain	106648
+1217652	Acinetobacter brisouii ANC 4119	strain	396323
+396323	Acinetobacter brisouii	species	469
+1217653	Acinetobacter calcoaceticus ANC 3680	strain	471
+471	Acinetobacter calcoaceticus	species	909768
+1217654	Acinetobacter calcoaceticus NIPH 13	strain	471
+1217655	Acinetobacter guillouiae CIP 63.46	strain	106649
+1217656	Acinetobacter guillouiae NIPH 991	strain	106649
+1217657	Acinetobacter gyllenbergii CIP 110306	strain	134534
+134534	Acinetobacter gyllenbergii	species	469
+1217658	Acinetobacter gyllenbergii NIPH 230	strain	134534
+1217659	Acinetobacter haemolyticus CIP 64.3	strain	29430
+29430	Acinetobacter haemolyticus	species	469
+1217660	Acinetobacter indicus ANC 4215	strain	756892
+756892	Acinetobacter indicus	species	469
+1217662	Acinetobacter johnsonii ANC 3681	strain	40214
+40214	Acinetobacter johnsonii	species	469
+1217663	Acinetobacter johnsonii CIP 64.6	strain	40214
+1217664	Acinetobacter junii CIP 64.5	strain	40215
+40215	Acinetobacter junii	species	469
+1217665	Acinetobacter junii NIPH 182	strain	40215
+1217666	Acinetobacter junii CIP 107470	strain	40215
+1217668	Acinetobacter lwoffii NIPH 478	strain	28090
+28090	Acinetobacter lwoffii	species	469
+1217670	Acinetobacter nosocomialis NIPH 2119	strain	106654
+1217671	Acinetobacter parvus NIPH 1103	strain	134533
+134533	Acinetobacter parvus	species	469
+1217673	Acinetobacter pittii ANC 3678	strain	48296
+1217674	Acinetobacter radioresistens NIPH 2130	strain	40216
+40216	Acinetobacter radioresistens	species	469
+1217675	Acinetobacter schindleri NIPH 900	strain	108981
+1217676	Acinetobacter soli CIP 110264	strain	487316
+487316	Acinetobacter soli	species	469
+1217677	Acinetobacter soli NIPH 2899	strain	487316
+1217690	Acinetobacter calcoaceticus ANC 3811	strain	471
+1217691	Acinetobacter pittii ANC 4050	strain	48296
+1217715	Acinetobacter bohemicus ANC 3994	strain	1435036
+1435036	Acinetobacter bohemicus	species	469
+1217716	Acinetobacter ursingii NIPH 706	strain	108980
+1217985	Acinetobacter nosocomialis NIPH 386	strain	106654
+1217986	Acinetobacter haemolyticus NIPH 261	strain	29430
+1217988	Acinetobacter schindleri CIP 107287	strain	108981
+1219383	Acinetobacter boissieri	species	469
+1221244	Acinetobacter baumannii AB_1536-8	strain	470
+1221245	Acinetobacter baumannii AB_1582-8	strain	470
+1221246	Acinetobacter baumannii AB_1583-8	strain	470
+1221247	Acinetobacter baumannii AB_1594-8	strain	470
+1221248	Acinetobacter baumannii AB_1595-8	strain	470
+1221249	Acinetobacter baumannii AB_1649-8	strain	470
+1221250	Acinetobacter baumannii AB_1650-8	strain	470
+1221251	Acinetobacter baumannii AB_1766_8	strain	470
+1221252	Acinetobacter baumannii AB_2007-09-110-01-7	strain	470
+1221253	Acinetobacter baumannii AB_2007-16-25-01-7	strain	470
+1221254	Acinetobacter baumannii AB_2007-16-27-01	strain	470
+1221255	Acinetobacter baumannii AB_2008-15-34-7	strain	470
+1221256	Acinetobacter baumannii AB_2008-15-45	strain	470
+1221257	Acinetobacter baumannii AB_2008-15-52	strain	470
+1221258	Acinetobacter baumannii AB_2008-15-69	strain	470
+1221259	Acinetobacter baumannii AB_2008-15-70	strain	470
+1221260	Acinetobacter baumannii AB_2008-15-71	strain	470
+1221261	Acinetobacter baumannii AB_2008-23-01-01-7	strain	470
+1221262	Acinetobacter baumannii AB_2008-23-07-01-7	strain	470
+1221263	Acinetobacter baumannii AB_2009-04-01-7	strain	470
+1221264	Acinetobacter baumannii AB_2009-04-02-7	strain	470
+1221265	Acinetobacter baumannii AB_515-8	strain	470
+1221266	Acinetobacter baumannii AB_908-12	strain	470
+1221267	Acinetobacter baumannii AB_908-13	strain	470
+1221268	Acinetobacter baumannii AB_908-14-7	strain	470
+1221269	Acinetobacter baumannii AB_909-01-7	strain	470
+1221270	Acinetobacter baumannii AB_909-02-7	strain	470
+1221271	Acinetobacter baumannii AB_909-05	strain	470
+1221272	Acinetobacter baumannii AB_909-14-7	strain	470
+1221273	Acinetobacter baumannii AB_TG19617	strain	470
+1221274	Acinetobacter baumannii AB_TG2018	strain	470
+1221275	Acinetobacter baumannii AB_TG2022	strain	470
+1221276	Acinetobacter baumannii AB_TG2023	strain	470
+1221277	Acinetobacter baumannii AB_TG2026	strain	470
+1221278	Acinetobacter baumannii AB_TG2028	strain	470
+1221279	Acinetobacter baumannii AB_TG2030	strain	470
+1221280	Acinetobacter baumannii AB_TG2031	strain	470
+1221281	Acinetobacter baumannii AB_TG2032	strain	470
+1221282	Acinetobacter baumannii AB_TG2631	strain	470
+1221283	Acinetobacter baumannii AB_TG27323	strain	470
+1221284	Acinetobacter baumannii AB_TG27327	strain	470
+1221285	Acinetobacter baumannii AB_TG27331	strain	470
+1221286	Acinetobacter baumannii AB_TG27335	strain	470
+1221287	Acinetobacter baumannii AB_TG27339	strain	470
+1221288	Acinetobacter baumannii AB_TG27343	strain	470
+1221290	Acinetobacter baumannii AB_TG5064	strain	470
+1221291	Acinetobacter baylyi TG19579	strain	202950
+1221292	Acinetobacter baumannii TG19582	strain	470
+1221293	Acinetobacter calcoaceticus TG19585	strain	471
+1221294	Acinetobacter calcoaceticus TG19588	strain	471
+1221295	Acinetobacter calcoaceticus TG19593	strain	471
+1221296	Acinetobacter nosocomialis TG19596	strain	106654
+1221297	Acinetobacter haemolyticus TG19599	strain	29430
+1221298	Acinetobacter haemolyticus TG19602	strain	29430
+1221299	Acinetobacter haemolyticus TG21157	strain	29430
+1221300	Acinetobacter johnsonii TG19605	strain	40214
+1221301	Acinetobacter johnsonii TG19625	strain	40214
+1221306	Acinetobacter junii TG19608	strain	40215
+1221308	Acinetobacter nosocomialis TG21145	strain	106654
+1221309	Acinetobacter pittii TG6411	strain	48296
+1221310	Acinetobacter radioresistens TG02010	strain	40216
+1221311	Acinetobacter schindleri TG19614	strain	108981
+1222031	Acinetobacter baumannii AB1H8	strain	470
+1222032	Acinetobacter baumannii AB4A3	strain	470
+1222033	Acinetobacter baumannii AB405E4	strain	470
+1223564	Acinetobacter baumannii ZWS1122	strain	470
+1224141	Acinetobacter baumannii ZWS1219	strain	470
+1224165	Acinetobacter baumannii ABNIH25	strain	470
+1226327	Acinetobacter kookii	species	469
+1229165	Acinetobacter apis	species	469
+1262585	Acinetobacter qingfengensis	species	469
+1278070	Acinetobacter baumannii MSP4-16	strain	470
+1285584	Acinetobacter nosocomialis P020	strain	106654
+1293574	Acinetobacter baumannii 48055	strain	470
+1310554	Acinetobacter baumannii 1036938	strain	470
+1310555	Acinetobacter baumannii 993520	strain	470
+1310556	Acinetobacter baumannii 17534	strain	470
+1310557	Acinetobacter baumannii 959073	strain	470
+1310558	Acinetobacter baumannii 136706	strain	470
+1310559	Acinetobacter baumannii 987421	strain	470
+1310560	Acinetobacter baumannii 564012	strain	470
+1310561	Acinetobacter baumannii 942133	strain	470
+1310562	Acinetobacter baumannii 472237-1196	strain	470
+1310563	Acinetobacter baumannii 972082	strain	470
+1310567	Acinetobacter baumannii 1046674	strain	470
+1310568	Acinetobacter baumannii 916567	strain	470
+1310569	Acinetobacter baumannii 1043903	strain	470
+1310570	Acinetobacter baumannii 1046051	strain	470
+1310571	Acinetobacter baumannii 1032241	strain	470
+1310573	Acinetobacter baumannii 18689	strain	470
+1310574	Acinetobacter baumannii 1042969-1265	strain	470
+1310577	Acinetobacter baumannii 532413	strain	470
+1310578	Acinetobacter baumannii 34001	strain	470
+1310579	Acinetobacter baumannii 58452	strain	470
+1310580	Acinetobacter baumannii 1297	strain	470
+1310582	Acinetobacter baumannii 662545-1347	strain	470
+1310583	Acinetobacter baumannii 1051176	strain	470
+1310584	Acinetobacter baumannii 23037	strain	470
+1310585	Acinetobacter baumannii 1051830	strain	470
+1310586	Acinetobacter baumannii 1031433	strain	470
+1310587	Acinetobacter baumannii 947299	strain	470
+1310588	Acinetobacter baumannii 562700	strain	470
+1310589	Acinetobacter baumannii 929679-2095	strain	470
+1310590	Acinetobacter baumannii 1040094	strain	470
+1310591	Acinetobacter baumannii 942194	strain	470
+1310592	Acinetobacter baumannii 1039621	strain	470
+1310593	Acinetobacter baumannii 796380-2102	strain	470
+1310594	Acinetobacter baumannii 653020	strain	470
+1310595	Acinetobacter baumannii 29280	strain	470
+1310596	Acinetobacter baumannii 1075025	strain	470
+1310597	Acinetobacter baumannii 1247182	strain	470
+1310598	Acinetobacter baumannii 1121032	strain	470
+1310599	Acinetobacter baumannii 781407	strain	470
+1310600	Acinetobacter baumannii 1289546	strain	470
+1310602	Acinetobacter baumannii 96512	strain	470
+1310604	Acinetobacter baumannii 984213	strain	470
+1310606	Acinetobacter baumannii 1297549	strain	470
+1310607	Acinetobacter baumannii 625974	strain	470
+1310610	Acinetobacter baumannii 647609	strain	470
+1310611	Acinetobacter baumannii 466760	strain	470
+1310614	Acinetobacter baumannii 1397084	strain	470
+1310616	Acinetobacter baumannii 400834	strain	470
+1310617	Acinetobacter baumannii 1406750	strain	470
+1310618	Acinetobacter baumannii 118362	strain	470
+1310620	Acinetobacter baumannii 1294217	strain	470
+1310622	Acinetobacter baumannii 1035119	strain	470
+1310624	Acinetobacter baumannii 1202252	strain	470
+1310625	Acinetobacter baumannii 496487	strain	470
+1310627	Acinetobacter baumannii 1284800	strain	470
+1310628	Acinetobacter baumannii 1267820	strain	470
+1310630	Acinetobacter baumannii 99063	strain	470
+1310633	Acinetobacter baumannii 940793	strain	470
+1310636	Acinetobacter baumannii 1429530	strain	470
+1310640	Acinetobacter baumannii 342950	strain	470
+1310644	Acinetobacter baumannii 1159076	strain	470
+1310645	Acinetobacter baumannii 1461963	strain	470
+1310646	Acinetobacter baumannii 1462234	strain	470
+1310648	Acinetobacter baumannii 110912	strain	470
+1310649	Acinetobacter baumannii 1465485	strain	470
+1310650	Acinetobacter baumannii 724909	strain	470
+1310653	Acinetobacter baumannii 951631	strain	470
+1310654	Acinetobacter baumannii 1291820	strain	470
+1310655	Acinetobacter baumannii 1277411	strain	470
+1310656	Acinetobacter baumannii 1146103	strain	470
+1310657	Acinetobacter baumannii 1096934	strain	470
+1310659	Acinetobacter baumannii 1106579	strain	470
+1310661	Acinetobacter baumannii 855125	strain	470
+1310662	Acinetobacter baumannii 50595	strain	470
+1310663	Acinetobacter baumannii 1440750	strain	470
+1310665	Acinetobacter baumannii 1525283	strain	470
+1310666	Acinetobacter baumannii 1552818	strain	470
+1310668	Acinetobacter baumannii 754286	strain	470
+1310672	Acinetobacter baumannii 554515	strain	470
+1310673	Acinetobacter baumannii 1499986	strain	470
+1310674	Acinetobacter baumannii 1546444	strain	470
+1310675	Acinetobacter baumannii 1526966	strain	470
+1310676	Acinetobacter baumannii 43926	strain	470
+1310679	Acinetobacter baumannii 1552865	strain	470
+1310686	Acinetobacter baumannii 397971	strain	470
+1310688	Acinetobacter baumannii 144107	strain	470
+1310691	Acinetobacter baumannii 42887	strain	470
+1310692	Acinetobacter baumannii 532279	strain	470
+1310693	Acinetobacter baumannii 655378	strain	470
+1310694	Acinetobacter baumannii 232184	strain	470
+1310698	Acinetobacter baumannii 1593273	strain	470
+1310699	Acinetobacter baumannii 1575710	strain	470
+1310700	Acinetobacter baumannii 1598530	strain	470
+1310701	Acinetobacter baumannii 268680	strain	470
+1310702	Acinetobacter baumannii 831240	strain	470
+1310703	Acinetobacter baumannii 1417041	strain	470
+1310706	Acinetobacter baumannii 1412924	strain	470
+1310707	Acinetobacter baumannii 318814	strain	470
+1310708	Acinetobacter baumannii 923118	strain	470
+1310710	Acinetobacter baumannii 3390	strain	470
+1310713	Acinetobacter baumannii 1471012	strain	470
+1310716	Acinetobacter baumannii 1482820	strain	470
+1310718	Acinetobacter baumannii 1475764	strain	470
+1310719	Acinetobacter baumannii 607805	strain	470
+1310721	Acinetobacter baumannii 1533268	strain	470
+1310722	Acinetobacter baumannii 825610	strain	470
+1310725	Acinetobacter baumannii 1062314	strain	470
+1310727	Acinetobacter baumannii 836190	strain	470
+1310729	Acinetobacter baumannii 23671	strain	470
+1310730	Acinetobacter baumannii 1207552	strain	470
+1310731	Acinetobacter baumannii 1178044	strain	470
+1310732	Acinetobacter baumannii 1271651	strain	470
+1310733	Acinetobacter baumannii 1195185_11	strain	470
+1310735	Acinetobacter baumannii 737393	strain	470
+1310736	Acinetobacter baumannii 233846	strain	470
+1310737	Acinetobacter baumannii 1271213	strain	470
+1310738	Acinetobacter baumannii 273929	strain	470
+1310739	Acinetobacter baumannii 1045092	strain	470
+1310740	Acinetobacter baumannii 457946	strain	470
+1310741	Acinetobacter baumannii 73736	strain	470
+1310742	Acinetobacter baumannii 1188188	strain	470
+1310743	Acinetobacter baumannii 1264936	strain	470
+1310744	Acinetobacter baumannii 1237893	strain	470
+1310745	Acinetobacter baumannii 480175	strain	470
+1310746	Acinetobacter baumannii 1287985	strain	470
+1310747	Acinetobacter baumannii 1095464	strain	470
+1310748	Acinetobacter baumannii 846928	strain	470
+1310749	Acinetobacter baumannii 10519	strain	470
+1310750	Acinetobacter baumannii 1064293_45	strain	470
+1310751	Acinetobacter baumannii 1022959	strain	470
+1310752	Acinetobacter baumannii 1293320	strain	470
+1310753	Acinetobacter baumannii 1296252	strain	470
+1310754	Acinetobacter baumannii 2887	strain	470
+1310755	Acinetobacter baumannii 628418	strain	470
+1310757	Acinetobacter baumannii 755829	strain	470
+1310758	Acinetobacter baumannii 1266220	strain	470
+1310760	Acinetobacter baumannii 1406589	strain	470
+1310763	Acinetobacter baumannii 213697	strain	470
+1310765	Acinetobacter baumannii 1294222	strain	470
+1310767	Acinetobacter baumannii 1237202	strain	470
+1310768	Acinetobacter baumannii 1397513	strain	470
+1310769	Acinetobacter baumannii 1276470-86	strain	470
+1310770	Acinetobacter baumannii 1295549	strain	470
+1310771	Acinetobacter baumannii 1058283	strain	470
+1310774	Acinetobacter baumannii 1232509	strain	470
+1310775	Acinetobacter baumannii 1392509	strain	470
+1310776	Acinetobacter baumannii 1413735	strain	470
+1310777	Acinetobacter baumannii 1262761-97	strain	470
+1310778	Acinetobacter baumannii 426863	strain	470
+1310780	Acinetobacter baumannii 1117819	strain	470
+1310781	Acinetobacter baumannii 277047	strain	470
+1310782	Acinetobacter baumannii 1170863	strain	470
+1310783	Acinetobacter baumannii 214216	strain	470
+1310784	Acinetobacter baumannii 1007214	strain	470
+1310785	Acinetobacter baumannii 466215	strain	470
+1310786	Acinetobacter baumannii 541915	strain	470
+1310787	Acinetobacter baumannii 70136	strain	470
+1310789	Acinetobacter baumannii 145660	strain	470
+1310792	Acinetobacter baumannii 981176	strain	470
+1310793	Acinetobacter baumannii 98826	strain	470
+1310794	Acinetobacter baumannii 303002	strain	470
+1310796	Acinetobacter baumannii 1406182	strain	470
+1310797	Acinetobacter baumannii 1428368	strain	470
+1310798	Acinetobacter baumannii 14216	strain	470
+1310799	Acinetobacter baumannii 1494580	strain	470
+1310801	Acinetobacter baumannii 339786	strain	470
+1310802	Acinetobacter baumannii 11126	strain	470
+1310803	Acinetobacter baumannii 730795	strain	470
+1310805	Acinetobacter baumannii 1426993	strain	470
+1310806	Acinetobacter baumannii 1505311	strain	470
+1310807	Acinetobacter baumannii 1488685	strain	470
+1310808	Acinetobacter baumannii 470922	strain	470
+1310809	Acinetobacter baumannii 1539026	strain	470
+1310810	Acinetobacter baumannii 7893	strain	470
+1310811	Acinetobacter baumannii 458282	strain	470
+1310812	Acinetobacter baumannii 1552389	strain	470
+1310813	Acinetobacter baumannii 722310	strain	470
+1310815	Acinetobacter baumannii 756476	strain	470
+1310818	Acinetobacter baumannii 121738	strain	470
+1310820	Acinetobacter baumannii 323408	strain	470
+1310825	Acinetobacter baumannii 1064293_46	strain	470
+1310826	Acinetobacter baumannii 1195185_80	strain	470
+1310827	Acinetobacter baumannii 1262761-105	strain	470
+1310828	Acinetobacter baumannii 472237-120	strain	470
+1310829	Acinetobacter baumannii 1276470-132	strain	470
+1310831	Acinetobacter baumannii 1042969-1197	strain	470
+1310835	Acinetobacter baumannii 24860_1	strain	470
+1310836	Acinetobacter baumannii 24860_2	strain	470
+1310837	Acinetobacter baumannii 24860_3	strain	470
+1310838	Acinetobacter baumannii 24860_4	strain	470
+1310839	Acinetobacter baumannii 24860_5	strain	470
+1310840	Acinetobacter baumannii 24860_6	strain	470
+1310841	Acinetobacter baumannii 24860_7	strain	470
+1310842	Acinetobacter baumannii 24860_8	strain	470
+1310843	Acinetobacter baumannii 24860_9	strain	470
+1310844	Acinetobacter baumannii 24860_10	strain	470
+1310846	Acinetobacter baumannii 24812_2	strain	470
+1310848	Acinetobacter baumannii 24812_4	strain	470
+1310850	Acinetobacter baumannii 24812_6	strain	470
+1310851	Acinetobacter baumannii 24812_7	strain	470
+1310852	Acinetobacter baumannii 24812_8	strain	470
+1310854	Acinetobacter baumannii 24812_10	strain	470
+1310855	Acinetobacter baumannii 24845_1	strain	470
+1310857	Acinetobacter baumannii 24845_3	strain	470
+1310858	Acinetobacter baumannii 24845_4	strain	470
+1310859	Acinetobacter baumannii 24845_5	strain	470
+1310860	Acinetobacter baumannii 24845_6	strain	470
+1310861	Acinetobacter baumannii 24845_7	strain	470
+1310862	Acinetobacter baumannii 24845_8	strain	470
+1310863	Acinetobacter baumannii 24845_9	strain	470
+1310864	Acinetobacter baumannii 24845_10	strain	470
+1310865	Acinetobacter baumannii 25307_1	strain	470
+1310866	Acinetobacter baumannii 25307_2	strain	470
+1310867	Acinetobacter baumannii 25307_3	strain	470
+1310869	Acinetobacter baumannii 25307_5	strain	470
+1310870	Acinetobacter baumannii 25307_6	strain	470
+1310872	Acinetobacter baumannii 25307_8	strain	470
+1310875	Acinetobacter baumannii 25253_1	strain	470
+1310877	Acinetobacter baumannii 25253_3	strain	470
+1310878	Acinetobacter baumannii 25253_4	strain	470
+1310879	Acinetobacter baumannii 25253_5	strain	470
+1310880	Acinetobacter baumannii 25253_6	strain	470
+1310881	Acinetobacter baumannii 25253_7	strain	470
+1310882	Acinetobacter baumannii 25253_8	strain	470
+1310884	Acinetobacter baumannii 25253_10	strain	470
+1310885	Acinetobacter baumannii 44895_1	strain	470
+1310886	Acinetobacter baumannii 44895_2	strain	470
+1310887	Acinetobacter baumannii 44895_3	strain	470
+1310888	Acinetobacter baumannii 44895_4	strain	470
+1310889	Acinetobacter baumannii 44895_5	strain	470
+1310890	Acinetobacter baumannii 44895_6	strain	470
+1310892	Acinetobacter baumannii 44895_8	strain	470
+1310893	Acinetobacter baumannii 44895_9	strain	470
+1310894	Acinetobacter baumannii 44895_10	strain	470
+1310897	Acinetobacter baumannii 45002_3	strain	470
+1310898	Acinetobacter baumannii 45002_4	strain	470
+1310899	Acinetobacter baumannii 45002_5	strain	470
+1310900	Acinetobacter baumannii 45002_6	strain	470
+1310901	Acinetobacter baumannii 45002_7	strain	470
+1310902	Acinetobacter baumannii 45002_8	strain	470
+1310903	Acinetobacter baumannii 45002_9	strain	470
+1310904	Acinetobacter baumannii 45002_10	strain	470
+1310915	Acinetobacter baumannii 25766_1	strain	470
+1310916	Acinetobacter baumannii 25766_2	strain	470
+1310917	Acinetobacter baumannii 25766_3	strain	470
+1310918	Acinetobacter baumannii 25766_4	strain	470
+1310919	Acinetobacter baumannii 25766_5	strain	470
+1310920	Acinetobacter baumannii 25766_6	strain	470
+1310921	Acinetobacter baumannii 25766_7	strain	470
+1310923	Acinetobacter baumannii 25766_9	strain	470
+1310924	Acinetobacter baumannii 25766_10	strain	470
+1310945	Acinetobacter baumannii 24975_1	strain	470
+1310948	Acinetobacter baumannii 24975_4	strain	470
+1310949	Acinetobacter baumannii 24975_5	strain	470
+1310951	Acinetobacter baumannii 24975_7	strain	470
+1310953	Acinetobacter baumannii 24975_9	strain	470
+1310954	Acinetobacter baumannii 24975_10	strain	470
+1310975	Acinetobacter baumannii 44467_1	strain	470
+1310976	Acinetobacter baumannii 44467_2	strain	470
+1310977	Acinetobacter baumannii 44467_3	strain	470
+1310978	Acinetobacter baumannii 44467_4	strain	470
+1310979	Acinetobacter baumannii 44467_5	strain	470
+1310980	Acinetobacter baumannii 44467_6	strain	470
+1310981	Acinetobacter baumannii 44467_7	strain	470
+1310982	Acinetobacter baumannii 44467_8	strain	470
+1310983	Acinetobacter baumannii 44467_9	strain	470
+1310984	Acinetobacter baumannii 44467_10	strain	470
+1310985	Acinetobacter baumannii 44327_1	strain	470
+1310986	Acinetobacter baumannii 44327_2	strain	470
+1310988	Acinetobacter baumannii 44327_4	strain	470
+1310989	Acinetobacter baumannii 44327_5	strain	470
+1310990	Acinetobacter baumannii 44327_6	strain	470
+1310991	Acinetobacter baumannii 44327_7	strain	470
+1310992	Acinetobacter baumannii 44327_8	strain	470
+1311003	Acinetobacter baumannii 44857_9	strain	470
+1311004	Acinetobacter baumannii 44857_10	strain	470
+1311006	Acinetobacter baumannii 25681_2	strain	470
+1311007	Acinetobacter baumannii 25681_3	strain	470
+1311009	Acinetobacter baumannii 25681_5	strain	470
+1311010	Acinetobacter baumannii 25681_6	strain	470
+1311012	Acinetobacter baumannii 25681_8	strain	470
+1311013	Acinetobacter baumannii 25681_9	strain	470
+1311015	Acinetobacter baumannii 25493_1	strain	470
+1311016	Acinetobacter baumannii 25493_2	strain	470
+1311017	Acinetobacter baumannii 25493_3	strain	470
+1311018	Acinetobacter baumannii 25493_4	strain	470
+1311019	Acinetobacter baumannii 25493_5	strain	470
+1311020	Acinetobacter baumannii 25493_6	strain	470
+1311022	Acinetobacter baumannii 25493_8	strain	470
+1311023	Acinetobacter baumannii 25493_9	strain	470
+1311024	Acinetobacter baumannii 25493_10	strain	470
+1311027	Acinetobacter baumannii 44437_3	strain	470
+1311028	Acinetobacter baumannii 44437_4	strain	470
+1311029	Acinetobacter baumannii 44437_5	strain	470
+1311031	Acinetobacter baumannii 44437_7	strain	470
+1311032	Acinetobacter baumannii 44437_8	strain	470
+1311033	Acinetobacter baumannii 44437_9	strain	470
+1311035	Acinetobacter baumannii 44362_1	strain	470
+1311036	Acinetobacter baumannii 44362_2	strain	470
+1311037	Acinetobacter baumannii 44362_3	strain	470
+1311038	Acinetobacter baumannii 44362_4	strain	470
+1311039	Acinetobacter baumannii 44362_5	strain	470
+1311040	Acinetobacter baumannii 44362_6	strain	470
+1311041	Acinetobacter baumannii 44362_7	strain	470
+1311042	Acinetobacter baumannii 44362_8	strain	470
+1311043	Acinetobacter baumannii 44362_9	strain	470
+1311044	Acinetobacter baumannii 44362_10	strain	470
+1311045	Acinetobacter baumannii 25878_1	strain	470
+1311046	Acinetobacter baumannii 25878_2	strain	470
+1311047	Acinetobacter baumannii 25878_3	strain	470
+1311048	Acinetobacter baumannii 43557_1	strain	470
+1311065	Acinetobacter baumannii 44839_8	strain	470
+1311066	Acinetobacter baumannii 44839_9	strain	470
+1311067	Acinetobacter baumannii 44839_10	strain	470
+1311068	Acinetobacter baumannii 26016_1	strain	470
+1311069	Acinetobacter baumannii 26016_2	strain	470
+1311070	Acinetobacter baumannii 26016_3	strain	470
+1311071	Acinetobacter baumannii 26016_4	strain	470
+1311072	Acinetobacter baumannii 26016_5	strain	470
+1311073	Acinetobacter baumannii 26016_6	strain	470
+1311074	Acinetobacter baumannii 26016_7	strain	470
+1311075	Acinetobacter baumannii 26016_8	strain	470
+1311076	Acinetobacter baumannii 26016_9	strain	470
+1311077	Acinetobacter baumannii 26016_10	strain	470
+1311078	Acinetobacter baumannii 44298_1	strain	470
+1311079	Acinetobacter baumannii 44298_2	strain	470
+1311080	Acinetobacter baumannii 44298_3	strain	470
+1311081	Acinetobacter baumannii 44298_4	strain	470
+1311082	Acinetobacter baumannii 44298_5	strain	470
+1311083	Acinetobacter baumannii 44298_6	strain	470
+1311084	Acinetobacter baumannii 44298_7	strain	470
+1311085	Acinetobacter baumannii 44298_8	strain	470
+1311086	Acinetobacter baumannii 44298_9	strain	470
+1311087	Acinetobacter baumannii 44298_10	strain	470
+1311088	Acinetobacter baumannii 45075_1	strain	470
+1311089	Acinetobacter baumannii 45075_2	strain	470
+1311090	Acinetobacter baumannii 45075_3	strain	470
+1311091	Acinetobacter baumannii 45075_4	strain	470
+1311092	Acinetobacter baumannii 45075_5	strain	470
+1311093	Acinetobacter baumannii 45075_6	strain	470
+1311095	Acinetobacter baumannii 45075_8	strain	470
+1311096	Acinetobacter baumannii 45075_9	strain	470
+1311097	Acinetobacter baumannii 45075_10	strain	470
+1311098	Acinetobacter baumannii 16553_1	strain	470
+1311099	Acinetobacter baumannii 16553_2	strain	470
+1311100	Acinetobacter baumannii 16553_3	strain	470
+1311101	Acinetobacter baumannii 16553_4	strain	470
+1311103	Acinetobacter baumannii 16553_6	strain	470
+1311105	Acinetobacter baumannii 16553_8	strain	470
+1311106	Acinetobacter baumannii 16553_9	strain	470
+1311107	Acinetobacter baumannii 16553_10	strain	470
+1311108	Acinetobacter baumannii 25569_1	strain	470
+1311109	Acinetobacter baumannii 25569_2	strain	470
+1311110	Acinetobacter baumannii 25569_3	strain	470
+1311111	Acinetobacter baumannii 25569_4	strain	470
+1311112	Acinetobacter baumannii 25569_5	strain	470
+1311113	Acinetobacter baumannii 25569_6	strain	470
+1311114	Acinetobacter baumannii 25569_7	strain	470
+1311115	Acinetobacter baumannii 25569_8	strain	470
+1311116	Acinetobacter baumannii 25569_9	strain	470
+1311117	Acinetobacter baumannii 25569_10	strain	470
+1311122	Acinetobacter baumannii 25442_5	strain	470
+1311128	Acinetobacter baumannii 45057_1	strain	470
+1311131	Acinetobacter baumannii 45057_4	strain	470
+1311134	Acinetobacter baumannii 42057_2	strain	470
+1311135	Acinetobacter baumannii 42057_3	strain	470
+1311136	Acinetobacter baumannii 42057_4	strain	470
+1311137	Acinetobacter baumannii 42057_5	strain	470
+1311138	Acinetobacter baumannii 42057_6	strain	470
+1311141	Acinetobacter baumannii 45052_1	strain	470
+1311142	Acinetobacter baumannii 45052_2	strain	470
+1311143	Acinetobacter baumannii 45052_3	strain	470
+1311144	Acinetobacter baumannii 45052_4	strain	470
+1311145	Acinetobacter baumannii 45052_5	strain	470
+1311774	Acinetobacter pittii ATCC 19004 = CIP 70.29	strain	48296
+1311804	Acinetobacter lwoffii ATCC 9957 = CIP 70.31	strain	28090
+1315134	Acinetobacter baumannii TG00314	strain	470
+1315135	Acinetobacter baumannii TG02011	strain	470
+1315136	Acinetobacter baumannii TG02017	strain	470
+1315137	Acinetobacter baumannii TG07725	strain	470
+1315138	Acinetobacter baumannii TG15233	strain	470
+1315139	Acinetobacter baumannii TG15234	strain	470
+1315140	Acinetobacter baumannii TG15236	strain	470
+1315141	Acinetobacter baumannii TG15237	strain	470
+1315142	Acinetobacter baumannii TG15238	strain	470
+1315143	Acinetobacter baumannii TG15239	strain	470
+1315144	Acinetobacter baumannii TG15240	strain	470
+1315145	Acinetobacter baumannii TG15241	strain	470
+1315146	Acinetobacter baumannii TG15242	strain	470
+1315147	Acinetobacter baumannii TG2012	strain	470
+1315148	Acinetobacter baumannii TG2013	strain	470
+1315149	Acinetobacter baumannii TG2014	strain	470
+1315150	Acinetobacter baumannii TG20277	strain	470
+1315151	Acinetobacter baumannii TG20546	strain	470
+1315154	Acinetobacter baumannii TG22110	strain	470
+1315155	Acinetobacter baumannii TG22112	strain	470
+1315156	Acinetobacter baumannii TG22142	strain	470
+1315157	Acinetobacter baumannii TG22146	strain	470
+1315158	Acinetobacter baumannii TG22148	strain	470
+1315159	Acinetobacter baumannii TG22150	strain	470
+1315160	Acinetobacter baumannii TG22190	strain	470
+1315161	Acinetobacter baumannii TG22192	strain	470
+1315162	Acinetobacter baumannii TG22194	strain	470
+1315163	Acinetobacter baumannii TG22196	strain	470
+1315164	Acinetobacter baumannii TG22198	strain	470
+1315165	Acinetobacter baumannii TG22202	strain	470
+1315166	Acinetobacter baumannii TG22204	strain	470
+1315167	Acinetobacter baumannii TG22212	strain	470
+1315168	Acinetobacter baumannii TG22214	strain	470
+1315169	Acinetobacter baumannii TG22332	strain	470
+1315170	Acinetobacter baumannii TG22336	strain	470
+1315171	Acinetobacter baumannii TG27295	strain	470
+1315172	Acinetobacter baumannii TG27299	strain	470
+1315173	Acinetobacter baumannii TG27307	strain	470
+1315174	Acinetobacter baumannii TG27311	strain	470
+1315175	Acinetobacter baumannii TG27315	strain	470
+1315176	Acinetobacter baumannii TG27319	strain	470
+1315177	Acinetobacter baumannii TG27371	strain	470
+1315178	Acinetobacter baumannii TG27379	strain	470
+1315179	Acinetobacter baumannii TG27383	strain	470
+1315180	Acinetobacter baumannii TG27387	strain	470
+1315181	Acinetobacter baumannii TG27391	strain	470
+1315182	Acinetobacter baumannii TG27395	strain	470
+1315183	Acinetobacter baumannii TG27399	strain	470
+1315184	Acinetobacter baumannii TG27407	strain	470
+1315185	Acinetobacter baumannii TG27411	strain	470
+1324350	Acinetobacter equi	species	469
+1330037	Acinetobacter gerneri MTCC 9824	strain	202952
+1330038	Acinetobacter guillouiae MSP4-18	strain	106649
+1330039	Acinetobacter gyllenbergii MTCC 11365	strain	134534
+1330047	Acinetobacter junii MTCC 11364	strain	40215
+1331660	Acinetobacter haemolyticus MTCC 9819	strain	29430
+1340174	Acinetobacter baumannii MRY09-0642	strain	470
+1340175	Acinetobacter baumannii MRY10-0558	strain	470
+1340176	Acinetobacter baumannii MRY12-0277	strain	470
+1341679	Acinetobacter indicus CIP 110367	strain	756892
+1341683	Acinetobacter brisouii CIP 110357	strain	396323
+1343071	Acinetobacter nosocomialis M2	strain	106654
+1343072	Acinetobacter baumannii CI86	strain	470
+1343074	Acinetobacter baumannii CI79	strain	470
+1343075	Acinetobacter baumannii CI77	strain	470
+1346792	Acinetobacter baumannii AB-HKU3-08	strain	470
+1346793	Acinetobacter baumannii AB-HKU3-10	strain	470
+1351817	Acinetobacter baumannii 1605	strain	470
+1353941	Acinetobacter harbinensis	species	469
+1354303	Psychrobacter aquaticus CMS 56	strain	248452
+248452	Psychrobacter aquaticus	species	497
+497	Psychrobacter	genus	468
+1358412	Acinetobacter baumannii EGD-HP18	strain	470
+1388759	Acinetobacter baumannii A13	strain	470
+1391912	Acinetobacter oleivorans CIP 110421	strain	1148157
+1148157	Acinetobacter oleivorans	species	469
+1392540	Acinetobacter nectaris CIP 110549	strain	1219382
+1219382	Acinetobacter nectaris	species	469
+1398943	Acinetobacter baumannii UH0207	strain	470
+1398944	Acinetobacter baumannii UH0707	strain	470
+1398945	Acinetobacter baumannii UH0807	strain	470
+1398946	Acinetobacter baumannii UH1007	strain	470
+1398947	Acinetobacter baumannii UH10007	strain	470
+1398948	Acinetobacter baumannii UH10107	strain	470
+1398949	Acinetobacter baumannii UH10707	strain	470
+1398950	Acinetobacter baumannii UH11608	strain	470
+1398951	Acinetobacter baumannii UH12208	strain	470
+1398952	Acinetobacter baumannii UH12308	strain	470
+1398953	Acinetobacter baumannii UH12408	strain	470
+1398954	Acinetobacter baumannii UH12808	strain	470
+1398955	Acinetobacter baumannii UH13908	strain	470
+1398956	Acinetobacter baumannii UH14508	strain	470
+1398957	Acinetobacter baumannii UH15208	strain	470
+1398958	Acinetobacter baumannii UH16008	strain	470
+1398959	Acinetobacter baumannii UH16108	strain	470
+1398960	Acinetobacter baumannii UH16208	strain	470
+1398961	Acinetobacter baumannii UH18608	strain	470
+1398962	Acinetobacter baumannii UH19608	strain	470
+1398963	Acinetobacter baumannii UH19908	strain	470
+1398966	Acinetobacter baumannii UH22908	strain	470
+1398967	Acinetobacter baumannii UH2307	strain	470
+1398968	Acinetobacter baumannii UH2707	strain	470
+1398969	Acinetobacter baumannii UH2907	strain	470
+1398970	Acinetobacter baumannii UH3807	strain	470
+1398971	Acinetobacter baumannii UH5107	strain	470
+1398972	Acinetobacter baumannii UH5207	strain	470
+1398973	Acinetobacter baumannii UH5307	strain	470
+1398974	Acinetobacter baumannii UH5707	strain	470
+1398975	Acinetobacter baumannii UH6107	strain	470
+1398976	Acinetobacter baumannii UH6207	strain	470
+1398977	Acinetobacter baumannii UH6507	strain	470
+1398978	Acinetobacter baumannii UH6907	strain	470
+1398979	Acinetobacter baumannii UH7007	strain	470
+1398980	Acinetobacter baumannii UH7607	strain	470
+1398981	Acinetobacter baumannii UH7707	strain	470
+1398982	Acinetobacter baumannii UH7807	strain	470
+1398983	Acinetobacter baumannii UH7907	strain	470
+1398984	Acinetobacter baumannii UH8107	strain	470
+1398985	Acinetobacter baumannii UH8407	strain	470
+1398986	Acinetobacter baumannii UH8707	strain	470
+1398987	Acinetobacter baumannii UH8807	strain	470
+1398988	Acinetobacter baumannii UH8907	strain	470
+1398990	Acinetobacter baumannii UH9707	strain	470
+1398991	Acinetobacter baumannii UH9907	strain	470
+1400867	Acinetobacter baumannii ZW85-1	strain	470
+1401639	Acinetobacter baumannii NCGM 237	strain	470
+1409922	Acinetobacter baumannii MRSN 3405	strain	470
+1409923	Acinetobacter baumannii MRSN 3527	strain	470
+1409924	Acinetobacter baumannii MRSN 3942	strain	470
+1409925	Acinetobacter baumannii MRSN 4106	strain	470
+1409926	Acinetobacter baumannii MRSN 58	strain	470
+1409927	Acinetobacter baumannii MRSN 7339	strain	470
+1409928	Acinetobacter baumannii MRSN 7341	strain	470
+1413216	Acinetobacter baumannii PKAB07	strain	470
+1431338	Acinetobacter baumannii P630	strain	470
+1434212	Acinetobacter baumannii MRSN 57	strain	470
+1439316	Acinetobacter baumannii BIDMC 56	strain	470
+1443941	Acinetobacter gandensis	species	469
+1449755	Acinetobacter baumannii Pulsotype 27	strain	470
+1451233	Acinetobacter soli TCM341	strain	487316
+1455315	Acinetobacter baumannii LAC-4	strain	470
+1455316	Acinetobacter baumannii R1B	strain	470
+1458918	Acinetobacter baumannii LY1	strain	470
+1458919	Acinetobacter baumannii LY2	strain	470
+1458920	Acinetobacter baumannii LY3	strain	470
+1458921	Acinetobacter baumannii LY4	strain	470
+1458922	Acinetobacter baumannii LY5	strain	470
+1458923	Acinetobacter baumannii LY6	strain	470
+1458924	Acinetobacter baumannii LY7	strain	470
+1458925	Acinetobacter baumannii LY8	strain	470
+1458926	Acinetobacter baumannii LY9	strain	470
+1507807	Acinetobacter idrijaensis	species	469
+1530123	Acinetobacter seifertii	species	909768
+1582270	Acinetobacter populi	species	469
+1673609	Acinetobacter albensis	species	469
+1752076	Acinetobacter halotolerans	species	469
+1776741	Acinetobacter proteolyticus	species	469
+1785128	Acinetobacter lactucae	species	909768
+1806892	Acinetobacter pragensis	species	469
+1871111	Acinetobacter defluvii	species	469
+1879050	Acinetobacter wuhouensis	species	469
+1891224	Acinetobacter celticus	species	469
+2004650	Acinetobacter chinensis	species	469
+2006115	Acinetobacter piscicola	species	469
+2080673	Acinetobacter calcoaceticus/baumannii complex sp. ABNIH27	species	909768
+211586	Shewanella oneidensis MR-1	strain	70863
+70863	Shewanella oneidensis	species	22
+22	Shewanella	genus	267890
+267890	Shewanellaceae	family	135622
+135622	Alteromonadales	order	1236
+2136182	Acinetobacter cumulans	species	469
+261164	Psychrobacter alimentarius	species	497
+280145	Acinetobacter colistiniresistens	species	469
+280147	Acinetobacter courvalinii	species	469
+281375	Acinetobacter marinus	species	469
+335284	Psychrobacter cryohalolentis K5	strain	330922
+330922	Psychrobacter cryohalolentis	species	497
+400667	Acinetobacter baumannii ATCC 17978	strain	470
+405416	Acinetobacter baumannii ACICU	strain	470
+421052	Acinetobacter rudis CIP 110305	strain	632955
+632955	Acinetobacter rudis	species	469
+436717	Acinetobacter oleivorans DR1	strain	1148157
+480119	Acinetobacter baumannii AB0057	strain	470
+497978	Acinetobacter baumannii MDR-ZJ06	strain	470
+509173	Acinetobacter baumannii AYE	strain	470
+525242	Acinetobacter baumannii 6014059	strain	470
+525243	Acinetobacter baumannii 6013150	strain	470
+557601	Acinetobacter baumannii AB900	strain	470
+575584	Acinetobacter baumannii ATCC 19606 = CIP 70.34 = JCM 6841	strain	470
+575585	Acinetobacter calcoaceticus RUH2202	strain	471
+575587	Acinetobacter junii SH205	strain	40215
+575588	Acinetobacter lwoffii SH145	strain	28090
+575589	Acinetobacter radioresistens SH164	strain	40216
+592014	Acinetobacter baumannii 6013113	strain	470
+595670	Acinetobacter kyonggiensis	species	469
+596318	Acinetobacter radioresistens SK82	strain	40216
+62977	Acinetobacter baylyi ADP1	strain	202950
+696749	Acinetobacter baumannii 1656-2	strain	470
+70346	Acinetobacter variabilis	species	469
+707232	Acinetobacter haemolyticus ATCC 19194	strain	29430
+710094	Acinetobacter baumannii AB056	strain	470
+710095	Acinetobacter baumannii AB058	strain	470
+710096	Acinetobacter baumannii AB059	strain	470
+871585	Acinetobacter pittii PHEA-2	strain	48296
+886886	Acinetobacter baumannii AB210	strain	470
+886888	Acinetobacter baumannii 3990	strain	470
+886889	Acinetobacter baumannii 3909	strain	470
+889738	Acinetobacter baumannii MDR-TJ	strain	470
+903889	Acinetobacter baumannii OIFC137	strain	470
+903890	Acinetobacter baumannii OIFC032	strain	470
+903892	Acinetobacter baumannii OIFC109	strain	470
+903893	Acinetobacter baumannii OIFC143	strain	470
+903894	Acinetobacter baumannii OIFC189	strain	470
+903895	Acinetobacter baumannii Canada BC-5	strain	470
+903896	Acinetobacter baumannii Naval-17	strain	470
+903897	Acinetobacter baumannii Naval-18	strain	470
+903898	Acinetobacter baumannii Naval-81	strain	470
+903899	Acinetobacter baumannii IS-123	strain	470
+903900	Acinetobacter radioresistens WC-A-157	strain	40216
+903901	Acinetobacter baumannii OIFC074	strain	470
+903902	Acinetobacter baumannii OIFC098	strain	470
+903903	Acinetobacter baumannii OIFC180	strain	470
+903904	Acinetobacter baumannii Naval-13	strain	470
+903905	Acinetobacter baumannii IS-235	strain	470
+903906	Acinetobacter baumannii IS-251	strain	470
+903907	Acinetobacter baumannii OIFC0162	strain	470
+903908	Acinetobacter baumannii Naval-72	strain	470
+903909	Acinetobacter baumannii Naval-83	strain	470
+903910	Acinetobacter baumannii OIFC110	strain	470
+903911	Acinetobacter baumannii IS-143	strain	470
+903912	Acinetobacter baumannii IS-116	strain	470
+903913	Acinetobacter baumannii WC-692	strain	470
+903914	Acinetobacter baumannii IS-58	strain	470
+903919	Acinetobacter baumannii WC-348	strain	470
+903920	Acinetobacter baumannii Naval-113	strain	470
+903921	Acinetobacter baumannii Naval-82	strain	470
+903922	Acinetobacter baumannii Naval-2	strain	470
+903923	Acinetobacter baumannii Naval-21	strain	470
+903924	Acinetobacter baumannii Canada BC1	strain	470
+903925	Acinetobacter baumannii WC-A-694	strain	470
+903926	Acinetobacter baumannii OIFC035	strain	470
+903927	Acinetobacter baumannii Naval-57	strain	470
+903929	Acinetobacter baumannii OIFC087	strain	470
+903930	Acinetobacter baumannii OIFC099	strain	470
+903931	Acinetobacter baumannii WC-A-92	strain	470
+903932	Acinetobacter baumannii OIFC065	strain	470
+903933	Acinetobacter baumannii OIFC047	strain	470
+903934	Acinetobacter baumannii OIFC338	strain	470
+903935	Acinetobacter baumannii OIFC111	strain	470
+903936	Acinetobacter baumannii Naval-78	strain	470
+903937	Acinetobacter baumannii AA-014	strain	470
+933263	Acinetobacter baumannii UMB001	strain	470
+933264	Acinetobacter baumannii UMB002	strain	470
+933265	Acinetobacter baumannii UMB003	strain	470
+945555	Acinetobacter baumannii WM99c	strain	470
+945556	Acinetobacter baumannii D1279779	strain	470
+981324	Acinetobacter bereziniae LMG 1003 = CIP 70.12	strain	106648
+981326	Acinetobacter pittii DSM 21653	strain	48296
+981327	Acinetobacter lwoffii NCTC 5866 = CIP 64.10 = NIPH 512	strain	28090
+981329	Acinetobacter baumannii W7282	strain	470
+981331	Acinetobacter calcoaceticus DSM 30006 = CIP 81.8	strain	471
+981332	Acinetobacter pittii DSM 9306	strain	48296
+981333	Acinetobacter parvus DSM 16617 = CIP 108168	strain	134533
+981336	Acinetobacter ursingii DSM 16037 = CIP 107286	strain	108980
+992402	Acinetobacter baumannii ABNIH1	strain	470
+992403	Acinetobacter baumannii ABNIH2	strain	470
+992404	Acinetobacter baumannii ABNIH3	strain	470
+992405	Acinetobacter baumannii ABNIH4	strain	470
+11120	Infectious bronchitis virus	norank	694014
+694014	Avian coronavirus	species	2509487
+2509487	Igacovirus	subgenus	694013
+694013	Gammacoronavirus	genus	2501931
+2501931	Orthocoronavirinae	subfamily	11118
+11118	Coronaviridae	family	2499399
+2499399	Cornidovirineae	suborder	76804
+76804	Nidovirales	order	2732506
+2732506	Pisoniviricetes	class	2732408
+2732408	Pisuviricota	phylum	2732396
+2732396	Orthornavirae	kingdom	2559587
+2559587	Riboviria	norank	10239
+10239	Viruses	superkingdom	1
+11128	Bovine coronavirus	norank	694003
+694003	Betacoronavirus 1	species	2509481
+2509481	Embecovirus	subgenus	694002
+694002	Betacoronavirus	genus	2501931
+11135	Feline infectious peritonitis virus	norank	12663
+12663	Feline coronavirus	norank	693997
+693997	Alphacoronavirus 1	species	2509514
+2509514	Tegacovirus	subgenus	693996
+693996	Alphacoronavirus	genus	2501931
+11137	Human coronavirus 229E	species	2509480
+2509480	Duvinacovirus	subgenus	693996
+11138	Murine hepatitis virus	norank	694005
+694005	Murine coronavirus	species	2509481
+11149	Transmissible gastroenteritis virus	norank	693997
+11152	Turkey coronavirus	norank	694014
+1159902	Common moorhen coronavirus HKU21	species	2509474
+2509474	Buldecovirus	subgenus	1159901
+1159901	Deltacoronavirus	genus	2501931
+1159903	Magpie-robin coronavirus HKU18	species	2724161
+2724161	unclassified Buldecovirus	norank	2509474
+1159904	Night heron coronavirus HKU19	species	2509485
+2509485	Herdecovirus	subgenus	1159901
+1159905	Porcine coronavirus HKU15	norank	1965089
+1965089	Coronavirus HKU15	species	2509474
+1159906	Sparrow coronavirus HKU17	species	2724161
+1159907	White-eye coronavirus HKU16	species	2509474
+1159908	Wigeon coronavirus HKU20	species	2509469
+2509469	Andecovirus	subgenus	1159901
+1160968	Rabbit coronavirus HKU14	species	2724078
+2724078	unclassified Embecovirus	norank	2509481
+1241933	Rousettus bat coronavirus HKU10	norank	1244203
+1244203	Bat coronavirus HKU10	species	2509479
+2509479	Decacovirus	subgenus	693996
+1263720	Betacoronavirus England 1	norank	1335626
+1335626	Middle East respiratory syndrome-related coronavirus	species	2509494
+2509494	Merbecovirus	subgenus	694002
+1264898	Ferret coronavirus	species	2509496
+2509496	Minacovirus	subgenus	693996
+1384461	Bat coronavirus CDPHE15/USA/2006	norank	1913643
+1913643	Bat coronavirus CDPHE15	species	2509477
+2509477	Colacovirus	subgenus	693996
+1385427	Betacoronavirus Erinaceus/VMC/DEU/2012	norank	1965093
+1965093	Hedgehog coronavirus 1	species	2509494
+1503289	BtMr-AlphaCoV/SAX2011	norank	2501927
+2501927	Myotis ricketti alphacoronavirus Sax-2011	species	2509500
+2509500	Myotacovirus	subgenus	693996
+1503291	BtNv-AlphaCoV/SC2013	norank	2501928
+2501928	Nyctalus velutinus alphacoronavirus SC-2013	species	2509503
+2509503	Nyctacovirus	subgenus	693996
+1503292	BtRf-AlphaCoV/HuB2013	norank	2501926
+2501926	Rhinolophus ferrumequinum alphacoronavirus HuB-2013	species	2509479
+1503293	BtRf-AlphaCoV/YN2012	species	2691594
+2691594	unclassified Rhinacovirus	norank	2509509
+2509509	Rhinacovirus	subgenus	693996
+1508224	Lucheng Rn rat coronavirus	species	2509492
+2509492	Luchacovirus	subgenus	693996
+1508228	Wencheng Sm shrew coronavirus	species	366617
+366617	unclassified Alphacoronavirus	norank	693996
+1541205	Bat Hp-betacoronavirus/Zhejiang2013	norank	2501961
+2501961	Bat Hp-betacoronavirus Zhejiang2013	species	2509486
+2509486	Hibecovirus	subgenus	694002
+1590370	Betacoronavirus HKU24	norank	2501960
+2501960	China Rattus coronavirus HKU24	species	2509481
+1699095	Camel alphacoronavirus	norank	11137
+1766554	Swine enteric coronavirus	norank	693997
+1892416	Rousettus bat coronavirus	norank	2501962
+2501962	Rousettus bat coronavirus GCCDC1	species	2509502
+2509502	Nobecovirus	subgenus	694002
+1920748	NL63-related bat coronavirus	norank	2501929
+2501929	NL63-related bat coronavirus strain BtKYNL63-9b	species	2509512
+2509512	Setracovirus	subgenus	693996
+1964806	Coronavirus AcCoV-JC34	species	2724758
+2724758	unclassified Luchacovirus	norank	2509492
+2050018	Rodent coronavirus	species	2664420
+2664420	unclassified Coronavirinae	norank	693995
+693995	Coronavirinae	subfamily	11118
+2050019	Shrew coronavirus	species	2730119
+2730119	unclassified Orthocoronavirinae	norank	2501931
+2492658	Alphacoronavirus Bat-CoV/P.kuhlii/Italy/3398-19/2015	species	2727852
+2727852	unclassified Nyctacovirus	norank	2509503
+2569586	Canada goose coronavirus	species	1433214
+1433214	unclassified Gammacoronavirus	norank	694013
+2697049	Severe acute respiratory syndrome coronavirus 2	norank	694009
+694009	Severe acute respiratory syndrome-related coronavirus	species	2509511
+2509511	Sarbecovirus	subgenus	694002
+277944	Human coronavirus NL63	species	2509512
+28295	Porcine epidemic diarrhea virus	species	2509505
+2509505	Pedacovirus	subgenus	693996
+290028	Human coronavirus HKU1	species	2509481
+31631	Human coronavirus OC43	norank	694003
+393767	Bat coronavirus 1A	species	2691586
+2691586	unclassified Minunacovirus	norank	2509497
+2509497	Minunacovirus	subgenus	693996
+502102	Rat coronavirus Parker	norank	31632
+31632	Rat coronavirus	norank	694005
+572288	Bulbul coronavirus HKU11-934	norank	574549
+574549	Bulbul coronavirus HKU11	species	2509474
+572289	Munia coronavirus HKU13-3514	norank	1297661
+1297661	Munia coronavirus HKU13	species	2509474
+572290	Thrush coronavirus HKU12-600	species	2724161
+693998	Rhinolophus bat coronavirus HKU2	species	2509509
+693999	Scotophilus bat coronavirus 512	species	2509505
+694001	Miniopterus bat coronavirus HKU8	species	2509497
+694006	Rousettus bat coronavirus HKU9	species	2509502
+694007	Tylonycteris bat coronavirus HKU4	species	2509494
+694008	Pipistrellus bat coronavirus HKU5	species	2509494
+694015	Beluga whale coronavirus SW1	species	2509476
+2509476	Cegacovirus	subgenus	694013
+694448	unidentified human coronavirus	species	2664420
+766791	Mink coronavirus strain WD1127	norank	1913642
+1913642	Mink coronavirus 1	species	2509496
+864596	Bat coronavirus BM48-31/BGR/2008	species	2720068
+2720068	unclassified Sarbecovirus	norank	2509511
+999999006	SARS-CoV_AY274119	norank	11118
+999999007	SARS-CoV_AY502932	norank	11118
+999999008	SARS-CoV_AY714217	norank	11118
+999999009	SARS-CoV_DQ182595	norank	11118
+999999010	SARS-CoV_FJ882963	norank	11118
+999999011	SARS-CoV-2_GCA_011545495.1	norank	11118
+999999012	SARS-CoV-2_GCA_011545505.1	norank	11118
+999999013	SARS-CoV-2_GCA_011545535.1	norank	11118
+999999014	SARS-CoV-2_GCA_011545545.1	norank	11118
+999999015	SARS-CoV-2_GCA_011545555.1	norank	11118
+999999016	SARS-CoV-2_GCA_011741995.1	norank	11118
+999999017	SARS-CoV-2_GCA_011742005.2	norank	11118
+999999018	SARS-CoV-2_GCA_011742015.1	norank	11118
+999999019	SARS-CoV-2_GCA_011742025.1	norank	11118
+999999020	SARS-CoV-2_GCA_011742035.1	norank	11118
+999999021	Duck_coronavirus_GCA_012271565.1	norank	11118
+999999022	Betacoronavirus_Erinaceus_GCF_000912235.1	norank	11118
+999999023	MERS-CoV_KT121578	norank	11118
+999999024	MERS-CoV_KT121579	norank	11118
+999999025	MERS-CoV_KT121580	norank	11118
+999999026	MERS-CoV_KT121581	norank	11118
+999999027	MERS-CoV_KT861627	norank	11118
+999999028	Mouse_coronavirus_KY370048	norank	11118
+999999029	Rat_coronavirus_KY370051	norank	11118
+999999030	Avian_coronavirus_MK644086	norank	11118
+999999031	Pangolin_coronavirus_MT040333	norank	11118
+999999032	Pangolin_coronavirus_MT040334	norank	11118
+999999033	Pangolin_coronavirus_MT040335	norank	11118
+999999034	Pangolin_coronavirus_MT040336	norank	11118
+999999035	Wigeon_coronavirus_HKU20_NC_016995	norank	11118
+999999036	Bat_SARS-CoV_MG772933	norank	11118
+999999037	Civet_SARS-CoV_AY572034	norank	11118
+999999038	Civet_SARS-CoV_AY572035	norank	11118
+999999039	Civet_SARS-CoV_AY572038	norank	11118
+999999040	Cat_Alphacoronavirus_1_MN165107	norank	11118
+999999041	Bat_coronavirus_WIV16	norank	11118
+999999042	Bat_SARS-CoV_CoVZXC21	norank	11118
+999999043	Bat_SARS-CoV_Longquan-140	norank	11118
+999999044	Bat_coronavirus_BtRs-HuB2013	norank	11118
+999999045	Bat_coronavirus_BtRl-BetaCoV_SC2018	norank	11118
+999999046	Bat_coronavirus_BtRs-BetaCoV_YN2018C	norank	11118
+999999047	Bat_coronavirus_Anlong-112	norank	11118
+999999048	Pangolin_coronavirus_MT072864	norank	11118
+999999049	Bat_SARS-CoV_RaTG13	norank	11118
+999999050	Pangolin_coronavirus_Guangdong_1	norank	11118
+999999051	Pangolin_coronavirus_Guangdong_A22-2	norank	11118
+999999052	Pangolin_coronavirus_Guangdong_SM44-9	norank	11118
+999999053	Pangolin_coronavirus_Guangdong_SM79-9	norank	11118
+999999054	Pangolin_coronavirus_Guangxi_P4L	norank	11118
+999999055	Pangolin_coronavirus_Guangxi_P1E	norank	11118
+999999056	Pangolin_coronavirus_Guangxi_P5L	norank	11118
+999999057	Pangolin_coronavirus_Guangxi_P5E	norank	11118
+999999058	Bat_SARS-CoV_RmYN02	norank	11118
+999999059	SARS-CoV-2_LC521925	norank	11118
+999999060	SARS-CoV-2_LC522972	norank	11118
+999999061	SARS-CoV-2_MT292573	norank	11118
+999999062	SARS-CoV-2_MT328033	norank	11118
+999999063	SARS-CoV-2_MT077125	norank	11118
+999999064	SARS-CoV-2_MT093571	norank	11118
+999999065	SARS-CoV-2_MT320538	norank	11118
+999999066	SARS-CoV-2_MT066156	norank	11118
+999999067	Badger_coronavirus_AY545919	norank	11118
+999999068	Murine_hepatitis_virus_GCA_003971785.1	norank	11118
+999999069	Ferret_coronavirus_GCA_003971885.1	norank	11118
+999999070	NL63-related_bat_coronavirus_GCA_003972065.1	norank	11118
+999999071	SARS-CoV-2_GCA_009937885.1	norank	11118
+999999072	SARS-CoV-2_GCA_009937895.1	norank	11118
+999999073	SARS-CoV-2_GCA_009937905.1	norank	11118
+999999074	SARS-CoV-2_GCA_009937915.1	norank	11118
+999999075	SARS-CoV-2_GCA_009937925.1	norank	11118
+999999076	SARS-CoV-2_GCA_009937935.1	norank	11118
+999999077	SARS-CoV-2_GCA_009937945.1	norank	11118
+999999078	SARS-CoV-2_GCA_009938055.1	norank	11118
+999999079	SARS-CoV-2_GCA_009938065.1	norank	11118
+999999080	SARS-CoV-2_GCA_009948425.1	norank	11118
+999999081	SARS-CoV-2_GCA_009948465.1	norank	11118
+999999082	SARS-CoV-2_GCA_009948495.1	norank	11118
+999999083	SARS-CoV-2_GCA_009948525.1	norank	11118
+999999084	SARS-CoV-2_GCA_009948555.1	norank	11118
+999999085	SARS-CoV-2_GCA_011536935.1	norank	11118
+999999086	SARS-CoV-2_GCA_011536975.1	norank	11118
+999999087	SARS-CoV-2_GCA_011537005.1	norank	11118
+999999088	SARS-CoV-2_GCA_011537015.1	norank	11118
+999999089	SARS-CoV-2_GCA_011537065.1	norank	11118
+999999090	SARS-CoV-2_GCA_011537075.1	norank	11118
+999999091	SARS-CoV-2_GCA_011537085.1	norank	11118
+999999092	SARS-CoV-2_GCA_011537135.1	norank	11118
+999999093	SARS-CoV-2_GCA_011537145.1	norank	11118
+999999094	SARS-CoV-2_GCA_011537155.1	norank	11118
+999999095	SARS-CoV-2_GCA_011537225.1	norank	11118
+999999096	SARS-CoV-2_GCA_011537235.1	norank	11118
+999999097	SARS-CoV-2_GCA_011537265.1	norank	11118
+999999098	SARS-CoV-2_GCA_011537295.1	norank	11118
+999999099	SARS-CoV-2_GCA_011537325.1	norank	11118
+999999100	SARS-CoV-2_GCA_011537355.1	norank	11118
+999999101	SARS-CoV-2_GCA_011537365.1	norank	11118
+999999102	SARS-CoV-2_GCA_011537395.1	norank	11118
+999999103	SARS-CoV-2_GCA_011537425.1	norank	11118
+999999104	SARS-CoV-2_GCA_011537455.1	norank	11118
+999999105	SARS-CoV-2_GCA_011537465.1	norank	11118
+999999106	SARS-CoV-2_GCA_011537475.1	norank	11118
+999999107	SARS-CoV-2_GCA_011537505.1	norank	11118
+999999108	SARS-CoV-2_GCA_011537515.1	norank	11118
+999999109	SARS-CoV-2_GCA_011537525.1	norank	11118
+999999110	SARS-CoV-2_GCA_011537555.1	norank	11118
+999999111	SARS-CoV-2_GCA_011537565.1	norank	11118
+999999112	SARS-CoV-2_GCA_011537615.1	norank	11118
+999999113	SARS-CoV-2_GCA_011537625.1	norank	11118
+999999114	SARS-CoV-2_GCA_011537695.1	norank	11118
+999999115	SARS-CoV-2_GCA_011537705.1	norank	11118
+999999116	SARS-CoV-2_GCA_011537715.1	norank	11118
+999999117	SARS-CoV-2_GCA_011537785.1	norank	11118
+999999118	SARS-CoV-2_GCA_011537815.1	norank	11118
+999999119	SARS-CoV-2_GCA_011537825.1	norank	11118
+999999120	SARS-CoV-2_GCA_011537835.1	norank	11118
+999999121	SARS-CoV-2_GCA_011537865.1	norank	11118
+999999122	SARS-CoV-2_GCA_011537895.1	norank	11118
+999999123	SARS-CoV-2_GCA_011537945.1	norank	11118
+999999124	SARS-CoV-2_GCA_011537975.1	norank	11118
+999999125	SARS-CoV-2_GCA_011537985.1	norank	11118
+999999126	SARS-CoV-2_GCA_011538015.1	norank	11118
+999999127	SARS-CoV-2_GCA_011538025.1	norank	11118
+999999128	SARS-CoV-2_GCA_011538055.1	norank	11118
+999999129	SARS-CoV-2_GCA_011538105.1	norank	11118
+999999130	SARS-CoV-2_GCA_011544975.1	norank	11118
+999999131	SARS-CoV-2_GCA_011545025.1	norank	11118
+999999132	SARS-CoV-2_GCA_011545035.1	norank	11118
+999999133	SARS-CoV-2_GCA_011545065.1	norank	11118
+999999134	SARS-CoV-2_GCA_011545075.1	norank	11118
+999999135	SARS-CoV-2_GCA_011545085.1	norank	11118
+999999136	SARS-CoV-2_GCA_011545095.1	norank	11118
+999999137	SARS-CoV-2_GCA_011545125.1	norank	11118
+999999138	SARS-CoV-2_GCA_011545135.1	norank	11118
+999999139	SARS-CoV-2_GCA_011545165.1	norank	11118
+999999140	SARS-CoV-2_GCA_011545235.1	norank	11118
+999999141	SARS-CoV-2_GCA_011545245.1	norank	11118
+999999142	SARS-CoV-2_GCA_011545275.1	norank	11118
+999999143	SARS-CoV-2_GCA_011545285.1	norank	11118
+999999144	SARS-CoV-2_GCA_011545295.1	norank	11118
+999999145	SARS-CoV-2_GCA_011545325.1	norank	11118
+999999146	SARS-CoV-2_GCA_011545335.1	norank	11118
+999999147	SARS-CoV-2_GCA_011545345.1	norank	11118
+999999148	SARS-CoV-2_GCA_011545355.1	norank	11118
+999999149	SARS-CoV-2_GCA_011545425.1	norank	11118
+999999150	SARS-CoV-2_GCA_011545455.1	norank	11118
+999999151	SARS-CoV-2_GCA_011545485.1	norank	11118
+999999152	SARS-CoV-2_IHG-PAS-8-30	norank	11118
+999999153	SARS-CoV-2_IHG-PAS-8-29	norank	11118
+999999154	SARS-CoV-2_WB-IICB-030	norank	11118
+999999155	SARS-CoV-2_20CV0415	norank	11118
+999999156	SARS-CoV-2_20CV0409	norank	11118
+999999157	SARS-CoV-2_BS-65256329	norank	11118
+999999158	SARS-CoV-2_BS-65255924	norank	11118
+999999159	SARS-CoV-2_ULG-10498	norank	11118
+999999160	SARS-CoV-2_VA-DCLS-1552	norank	11118
+999999161	SARS-CoV-2_VA-DCLS-1520	norank	11118
+999999162	SARS-CoV-2_QEUH-960A52	norank	11118
+999999163	SARS-CoV-2_MILK-970CB3	norank	11118
+999999164	SARS-CoV-2_MILK-9E2C43	norank	11118
+999999165	SARS-CoV-2_MILK-9E2144	norank	11118
+999999166	SARS-CoV-2_LA-EVTL185	norank	11118
+999999167	SARS-CoV-2_WX-NVRL-72IRL33081	norank	11118
+999999168	SARS-CoV-2_WX-NVRL-72IRL33055	norank	11118
+999999169	SARS-CoV-2_ZH-EMC-651	norank	11118
+999999170	SARS-CoV-2_ZH-EMC-650	norank	11118
+999999171	SARS-CoV-2_NRL_8496	norank	11118
+999999172	SARS-CoV-2_NRL_8458	norank	11118
+999999173	SARS-CoV-2_NSW2829	norank	11118
+999999174	SARS-CoV-2_NSW2827	norank	11118
+999999175	SARS-CoV-2_QEUH-9D3252	norank	11118
+999999176	SARS-CoV-2_QEUH-9D1272	norank	11118
+999999177	SARS-CoV-2_COL-InDRE-76	norank	11118
+999999178	SARS-CoV-2_COL-InDRE-75	norank	11118
+999999179	SARS-CoV-2_BAL-Sliema-9	norank	11118
+999999180	SARS-CoV-2_BAL-Sliema-5	norank	11118
+999999181	SARS-CoV-2_YO-UGM-10004	norank	11118
+999999182	SARS-CoV-2_YO-UGM-10003	norank	11118
+999999183	SARS-CoV-2_CVL-s2064	norank	11118
+999999184	SARS-CoV-2_CVL-s2057	norank	11118
+999999185	SARS-CoV-2_1034	norank	11118
+999999186	SARS-CoV-2_1018	norank	11118
+999999187	SARS-CoV-2_USFQ-253	norank	11118
+999999188	SARS-CoV-2_CAM-IZSM-172	norank	11118
+999999189	SARS-CoV-2_CAM-IZSM-166	norank	11118
+999999190	SARS-CoV-2_NGY-NNH-021	norank	11118
+999999191	SARS-CoV-2_NGY-NNH-020	norank	11118
+999999192	SARS-CoV-2_LIM-UPCH-0162	norank	11118
+999999193	SARS-CoV-2_LIM-UPCH-0161	norank	11118
+999999194	SARS-CoV-2_NPHL-2759	norank	11118
+999999195	SARS-CoV-2_NPHL-2727	norank	11118
+999999196	SARS-CoV-2_20-52649	norank	11118
+999999197	SARS-CoV-2_20-52646	norank	11118
+999999198	SARS-CoV-2_SVE-RII-MH231S	norank	11118
+999999199	SARS-CoV-2_3187	norank	11118
+999999200	SARS-CoV-2_3153	norank	11118
+999999201	SARS-CoV-2_203360728	norank	11118
+999999202	SARS-CoV-2_203360727	norank	11118
+999999203	SARS-CoV-2_VB20175856	norank	11118
+999999204	SARS-CoV-2_VB20175873	norank	11118
+999999205	SARS-CoV-2_USFQ-226	norank	11118
+999999206	SARS-CoV-2_NW-HHU-99	norank	11118
+999999207	SARS-CoV-2_NW-HHU-94	norank	11118
+999999208	SARS-CoV-2_KAUST-JEDDAH473	norank	11118
+999999209	SARS-CoV-2_KAUST-JEDDAH469	norank	11118
+999999210	SARS-CoV-2_NTU30	norank	11118
+999999211	SARS-CoV-2_KRISP-K002688	norank	11118
+999999212	SARS-CoV-2_KRISP-K002684	norank	11118
+999999213	SARS-CoV-2_C-VSVRI-SERVAC	norank	11118
+999999214	SARS-CoV-2_EGY-040	norank	11118
+999999215	SARS-CoV-2_SP-163	norank	11118
+999999216	SARS-CoV-2_DC-INS-197	norank	11118
+999999217	SARS-CoV-2_ULG-10368	norank	11118
+999999218	SARS-CoV-2_PAC-IHU-1362	norank	11118
+999999219	SARS-CoV-2_MH-NIV-215370	norank	11118
+999999220	SARS-CoV-2_Lutsk-889	norank	11118
+999999221	SARS-CoV-2_Kyiv-785	norank	11118
+999999222	SARS-CoV-2_CT-IrsiCaixa-2020090134-2	norank	11118
+999999223	SARS-CoV-2_MD-IBV-99007157	norank	11118
+999999224	SARS-CoV-2_PAC-IHU-1068	norank	11118
+999999225	SARS-CoV-2_ON-UHTC-0272	norank	11118
+999999226	SARS-CoV-2_ON-UHTC-0271	norank	11118
+1046625	Acinetobacter lwoffii WJ10621	strain	28090
+1114970	Pseudomonas fluorescens F113	strain	294
+294	Pseudomonas fluorescens	species	136843
+136843	Pseudomonas fluorescens group	speciesgroup	286
+1123015	Pseudomonas aeruginosa DSM 50071 = NBRC 12689	strain	287
+1168588	Acinetobacter baumannii Ab11111	strain	470
+1217634	Acinetobacter baumannii NIPH 410	strain	470
+1217669	Acinetobacter lwoffii NIPH 715	strain	28090
+1221307	Acinetobacter lwoffii TG19636	strain	28090
+1224166	Acinetobacter baumannii ABNIH26	strain	470
+1242245	Acinetobacter johnsonii XBB1	strain	40214
+1257043	Acinetobacter ursingii ANC 3649	strain	108980
+1310581	Acinetobacter baumannii 34654	strain	470
+1310684	Acinetobacter baumannii 83444	strain	470
+1310697	Acinetobacter baumannii 21072	strain	470
+1310712	Acinetobacter baumannii 655555	strain	470
+1310762	Acinetobacter baumannii 1391434	strain	470
+1310868	Acinetobacter baumannii 25307_4	strain	470
+1310925	Acinetobacter baumannii 25691_1	strain	470
+1310926	Acinetobacter baumannii 25691_2	strain	470
+1310929	Acinetobacter baumannii 25691_5	strain	470
+1310930	Acinetobacter baumannii 25691_6	strain	470
+1310931	Acinetobacter baumannii 25691_7	strain	470
+1310932	Acinetobacter baumannii 25691_8	strain	470
+1310933	Acinetobacter baumannii 25691_9	strain	470
+1310934	Acinetobacter baumannii 25691_10	strain	470
+1310935	Acinetobacter baumannii 25935_1	strain	470
+1310936	Acinetobacter baumannii 25935_2	strain	470
+1310938	Acinetobacter baumannii 25935_4	strain	470
+1310939	Acinetobacter baumannii 25935_5	strain	470
+1310940	Acinetobacter baumannii 25935_6	strain	470
+1310941	Acinetobacter baumannii 25935_7	strain	470
+1310942	Acinetobacter baumannii 25935_8	strain	470
+1310943	Acinetobacter baumannii 25935_9	strain	470
+1310944	Acinetobacter baumannii 25935_10	strain	470
+1310955	Acinetobacter baumannii 25561_1	strain	470
+1310956	Acinetobacter baumannii 25561_2	strain	470
+1310961	Acinetobacter baumannii 25561_7	strain	470
+1310964	Acinetobacter baumannii 25561_10	strain	470
+1310965	Acinetobacter baumannii 25750_1	strain	470
+1310970	Acinetobacter baumannii 25750_6	strain	470
+1310971	Acinetobacter baumannii 25750_7	strain	470
+1310972	Acinetobacter baumannii 25750_8	strain	470
+1311118	Acinetobacter baumannii 25442_1	strain	470
+1311124	Acinetobacter baumannii 25442_7	strain	470
+1311126	Acinetobacter baumannii 25442_9	strain	470
+1370126	Acinetobacter baumannii DU202	strain	470
+1398964	Acinetobacter baumannii UH20108	strain	470
+160488	Pseudomonas putida KT2440	strain	303
+303	Pseudomonas putida	species	136845
+136845	Pseudomonas putida group	speciesgroup	286
+1789224	Acinetobacter larvae	species	469
+242231	Neisseria gonorrhoeae FA 1090	strain	485
+485	Neisseria gonorrhoeae	species	482
+272624	Legionella pneumophila subsp. pneumophila str. Philadelphia 1	strain	91891
+91891	Legionella pneumophila subsp. pneumophila	subspecies	446
+446	Legionella pneumophila	species	445
+445	Legionella	genus	444
+444	Legionellaceae	family	118969
+118969	Legionellales	order	1236
+360094	Xanthomonas oryzae pv. oryzae PXO99A	strain	64187
+64187	Xanthomonas oryzae pv. oryzae	norank	347
+347	Xanthomonas oryzae	species	338
+338	Xanthomonas	genus	32033
+32033	Xanthomonadaceae	family	135614
+135614	Xanthomonadales	order	1236
+575586	Acinetobacter johnsonii SH046	strain	40214
+981334	Acinetobacter radioresistens DSM 6976 = NBRC 102413 = CIP 103788	strain	40216
+999999227	Feline_infectious_peritonitis_virus	norank	11118
+999999228	Murine_hepatitis_virus_GCF_000862345.1	norank	11118
+999999229	Bat_coronavirus_1A	norank	11118
+999999230	Rousettus_bat_coronavirus_HKU10	norank	11118
+999999231	Mink_coronavirus_strain_WD1127	norank	11118
+999999232	BtRf-AlphaCoV_YN2012	norank	11118
+999999233	BtMr-AlphaCoV_SAX2011	norank	11118
+999999234	BtRf-AlphaCoV_HuB2013	norank	11118
+999999235	BtNv-AlphaCoV_SC2013	norank	11118
+999999236	Rousettus_bat_coronavirus_GCF_001725835.1	norank	11118
+999999237	Wencheng_Sm_shrew_coronavirus	norank	11118
+999999238	Betacoronavirus_Erinaceus_VMC	norank	11118
+999999239	Transmissible_gastroenteritis_virus	norank	11118
+999999240	Munia_coronavirus_HKU13-3514	norank	11118
+999999241	Wigeon_coronavirus_HKU20_GCF_000895415.1	norank	11118
+999999242	Night_heron_coronavirus_HKU19	norank	11118
+999999243	White-eye_coronavirus_HKU16	norank	11118
+999999244	Common_moorhen_coronavirus_HKU21	norank	11118
+999999245	Unidentified_human_coronavirus_GCF_002889935.1	norank	11118
+999999246	Canada_goose_coronavirus	norank	11118
+999999247	Porcine_epidemic_diarrhea_virus	norank	11118
+999999248	Human_coronavirus_229E	norank	11118
+999999249	Human_coronavirus_NL63	norank	11118
+999999250	Human_coronavirus_HKU1	norank	11118
+999999251	Bovine_coronavirus	norank	11118
+999999252	Infectious_bronchitis_virus	norank	11118
+999999253	SARS-CoV_GCF_000864885.1	norank	11118
+999999254	Rousettus_bat_coronavirus_HKU9	norank	11118
+999999255	Sparrow_coronavirus_HKU17	norank	11118
+999999256	Tylonycteris_bat_coronavirus_HKU4	norank	11118
+999999257	Scotophilus_bat_coronavirus_512	norank	11118
+999999258	Beluga_whale_coronavirus_SW1	norank	11118
+999999259	Pipistrellus_bat_coronavirus_HKU5	norank	11118
+999999260	Rhinolophus_bat_coronavirus_HKU2	norank	11118
+999999261	Miniopterus_bat_coronavirus_HKU8	norank	11118
+999999262	Turkey_coronavirus	norank	11118
+999999263	Thrush_coronavirus_HKU12-600	norank	11118
+999999264	Rat_coronavirus_Parker	norank	11118
+999999265	Bat_coronavirus_BM48-31	norank	11118
+999999266	Magpie-robin_coronavirus_HKU18	norank	11118
+999999267	Rabbit_coronavirus_HKU14	norank	11118
+999999268	MERS-CoV_GCF_000901155.1	norank	11118
+999999269	Bat_coronavirus_CDPHE15_USA_2006	norank	11118
+999999270	Bat_Hp-betacoronavirus_Zhejiang2013	norank	11118
+999999271	Betacoronavirus_HKU24	norank	11118
+999999272	Camel_alphacoronavirus	norank	11118
+999999273	Swine_enteric_coronavirus	norank	11118
+999999274	Ferret_coronavirus	norank	11118
+999999275	NL63-related_bat_coronavirus	norank	11118
+999999276	Lucheng_Rn_rat_coronavirus	norank	11118
+999999277	Coronavirus_AcCoV-JC34	norank	11118
+999999278	Betacoronavirus_England_1	norank	11118
+999999279	Bulbul_coronavirus_HKU11-934	norank	11118
+999999280	Porcine_coronavirus_HKU15	norank	11118
+999999281	Human_coronavirus_OC43	norank	11118
+999999282	SARS-CoV-2_GCF_009858895.2	norank	11118
+999999283	Rodent_coronavirus	norank	11118
+999999284	Shrew_coronavirus	norank	11118
+999999285	Alphacoronavirus_Bat-CoV_P.kuhlii	norank	11118
+999999286	Murine_CoV_JHM-WU	norank	11118
+999999287	Duck_CoV_ZZ2004	norank	11118

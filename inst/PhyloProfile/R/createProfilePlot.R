@@ -1,7 +1,6 @@
 #' Profile plot
 #' @param data data for heatmap plot (from reactive fn "dataHeat")
 #' @param clusteredDataHeat clustered data (from reactive fn "clusteredDataHeat"
-#' @param applyCluster choose clustered data or not (from input$applyCluster)
 #' @param parameters plot parameters (colors, size, variable names, ...)
 #' @param inSeq subset sequences for customized profile (input$inSeq)
 #' @param inTaxa subset taxa for customized profile (input$inTaxa)
@@ -30,8 +29,9 @@ createProfilePlotUI <- function(id) {
 }
 
 createProfilePlot <- function(input, output, session,
-                                data, clusteredDataHeat,
-                                applyCluster,
+                                data, 
+                              # clusteredDataHeat,
+                                # applyCluster,
                                 parameters,
                                 inSeq, inTaxa,
                                 rankSelect, inSelect,
@@ -44,24 +44,24 @@ createProfilePlot <- function(input, output, session,
 
         if (typeProfile() == "customizedProfile") {
             if (is.null(inTaxa()) | is.null(inSeq())) return()
-
             dataHeat <- dataCustomizedPlot(data(), inTaxa(), inSeq())
-            if (applyCluster() == TRUE) {
-                dataHeat <- dataCustomizedPlot(
-                    clusteredDataHeat(), inTaxa(), inSeq()
-                )
-            }
+            # if (applyCluster() == TRUE) {
+                # dataHeat <- dataCustomizedPlot(
+                #     clusteredDataHeat(), inTaxa(), inSeq()
+                # )
+            # }
         } else {
             dataHeat <- dataMainPlot(data())
-            if (applyCluster() == TRUE) {
-                dataHeat <- dataMainPlot(clusteredDataHeat())
-            }
+            # if (applyCluster() == TRUE) {
+                # dataHeat <- dataMainPlot(clusteredDataHeat())
+            # }
         }
         return(dataHeat)
     })
 
     # render heatmap profile ---------------------------------------------------
     output$plot <- renderPlot({
+        req(geneHighlight())
         if (is.null(data())) stop("Profile data is NULL!")
         if (typeProfile() == "customizedProfile") {
             if (inSeq()[1] == "all" & inTaxa()[1] == "all") return()
